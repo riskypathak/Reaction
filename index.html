@@ -83,7 +83,8 @@
 
                 var row = table.insertRow(table.rows.length);
                 var cell1 = row.insertCell(0);
-                cell1.innerHTML = "<a href='javascript:void(0)' data-toggle='modal' data-target='#myModal' onclick=ShowRactionList('" + name + "')>" + name + "</a>";
+                var cl = 'ShowRactionList("' + name + '")';
+                cell1.innerHTML = "<a href='javascript:void(0)' data-toggle='modal' data-target='#myModal' onclick='" + cl + "'>" + name + "</a>";
 
                 var cell2 = row.insertCell(1);
                 cell2.innerHTML = dictionary[name];
@@ -98,6 +99,7 @@
 
         function ShowRactionList(name) {
             debugger;
+            $("#tblRactionList").html("");
             var filetrKey = 'Reaction Description';
             var dateArray = csvData.data.map(function (item) {
                 if (item["Reaction Description"] == name) {
@@ -156,8 +158,8 @@
         {
             min-height: .01%;
             overflow-x: auto;
-            overflow-y :auto;
-            height:400px;
+            overflow-y: auto;
+            height: 400px;
         }
     </style>
 </head>
@@ -170,8 +172,11 @@
                 <input type="file" id="csv-file" name="files" />
             </div>
             <div class="col-md-6">
-                <div id="slider">
+                <div class="col-md-10" id="slider">
                 </div>
+                <!--<div class="col-md-2">
+                    <input type="button" name="btnshow" onclick="ShowChartByDate()" id="btnshow" value="Show" />
+                </div>-->
             </div>
         </div>
         <div class="row">
@@ -194,10 +199,6 @@
                 </div>
             </div>
         </div>
-        <!-- Button trigger modal -->
-        <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
-            Launch modal
-        </button>
         <!-- Modal -->
         <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
             <div class="modal-dialog" role="document">
