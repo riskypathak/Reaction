@@ -1,0 +1,648 @@
+Reference_no,Latest Receive Date,Reaction Description,Country,Source,Age,Sex,DOSE,Treat.dru.till onset,Outcome,COMMENTS,SOC Name
+DSA_32526_2008,08/10/2008,Tremor,AUSTRALIA,Spontaneous,60 Years,Female,50 Milligram,,Recovered/resolved,Serious; ;,Nervous system disorders
+DSA_32687_2008,10/11/2008,Parkinsonism,UNITED KINGDOM,,77 Years,Female,50 Milligram,7 Years,Not recovered/not resolved,Serious; ; Possible,Nervous system disorders
+DSA_32705_2008,06/11/2008,Huntington's disease,FRANCE,Spontaneous,72 Years,Female,25 Milligram,,Fatal,Serious; ;,"Congenital, familial and genetic disorders"
+DSA_32747_2008,24/11/2008,Insomnia,USA,Other,52 Years,Male,75 Milligram,5 Years,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_32814_2008,04/12/2008,Aggression,USA,Other,15 Years,Male,,,Unknown,Not Serious; ;,Psychiatric disorders
+DSA_32907_2008,04/02/2009,Dyskinesia,USA,Spontaneous,71 Years,Female,37.5 Milligram,,Recovering/resolving,Not Serious; ;,Nervous system disorders
+DSA_32925_2008,10/02/2009,Acute myeloid leukaemia,ITALY,Spontaneous,76 Years,Male,37.5 Milligram,2 Days,Fatal,Serious; ;,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+DSA_32970_2009,02/01/2009,Dysphagia,USA,Other,55 Years,Female,12.5 Milligram,,Unknown,Not Serious; ;,Gastrointestinal disorders
+DSA_33085_2009,12/01/2009,Anxiety,USA,Other,9 Years,Male,Dosage forms,,Not recovered/not resolved,Serious; ;,Psychiatric disorders
+DSA_33087_2009,13/01/2010,Agitation,USA,Other,10 Years,Male,12.5 Milligram,,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_33116_2009,03/02/2009,Depression,GERMANY,Spontaneous,54 Years,Female,75 Milligram,,Recovered/resolved,Serious; ;,Psychiatric disorders
+DSA_33118_2009,22/01/2009,Drug dispensing error,USA,Other,,,25 Milligram,,Unknown,Not Serious; ;,"Injury, poisoning and procedural complications"
+DSA_33123_2009,26/01/2009,Depression,USA,Other,88 Years,Male,12.5 Milligram,,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_33134_2009,13/02/2009,Condition aggravated,USA,Other,25 Years,Male,12.5 Milligram,8 Days,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_33195_2009,09/02/2009,Dehydration,GERMANY,Spontaneous,75 Years,Male,150 Milligram,,Recovered/resolved,Serious; ; Not Related,Metabolism and nutrition disorders
+DSA_33196_2009,10/02/2009,Drug withdrawal syndrome,USA,Other,72 Years,Male,12.5 Milligram,,Unknown,Serious; ;,General disorders and administration site conditions
+DSA_33206_2009,18/09/2009,Choking sensation,USA,Spontaneous,47 Years,Female,50 Milligram,,Not recovered/not resolved,Not Serious; ;,"Respiratory, thoracic and mediastinal disorders"
+DSA_33228_2009,27/04/2009,Insomnia,USA,Other,50 Years,Female,25 Milligram,1 Months,Recovered/resolved,Not Serious; ;,Psychiatric disorders
+DSA_33229_2009,17/02/2009,Drug administration error,USA,Other,67 Years,Female,,1 Days,Recovered/resolved,Not Serious; ;,"Injury, poisoning and procedural complications"
+DSA_33239_2009,17/02/2009,Drug ineffective,USA,Spontaneous,30 Years,Male,12.5 Milligram,,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_33240_2009,13/04/2009,Depression,USA,Spontaneous,35 Years,Female,75 Milligram,,Recovered/resolved,Not Serious; ; Probable,Psychiatric disorders
+DSA_33244_2009,18/02/2009,Depression,USA,Other,53 Years,Female,12.5 Milligram,,Unknown,Not Serious; ;,Psychiatric disorders
+DSA_33246_2009,07/04/2009,Anxiety,USA,Other,56 Years,Female,25 Milligram,1 Months,Recovered/resolved,Not Serious; ;,Psychiatric disorders
+DSA_33248_2009,23/03/2009,Diarrhoea,USA,Spontaneous,48 Years,Female,25 Milligram,,Recovered/resolved,Serious; ;,Gastrointestinal disorders
+DSA_33259_2009,19/02/2009,Insomnia,USA,Other,81 Years,Male,2 Dosage forms,,Unknown,Not Serious; ;,Psychiatric disorders
+DSA_33269_2009,01/04/2009,Somnolence,USA,Other,66 Years,Female,Milligram,,Recovered/resolved,Not Serious; ; Certain,Nervous system disorders
+DSA_33309_2009,03/03/2009,Tremor,USA,Other,,Male,12.5 Milligram,,Unknown,Not Serious; ;,Nervous system disorders
+DSA_33316_2009,04/03/2009,Anxiety,USA,Spontaneous,47 Years,Female,6.25 Milligram,11 Days,Recovered/resolved,Serious; ;,Psychiatric disorders
+DSA_33324_2009,05/03/2009,Cheilitis,USA,Spontaneous,55 Years,Female,75 Milligram,8 Days,Not recovered/not resolved,Not Serious; ;,Gastrointestinal disorders
+DSA_33328_2009,06/03/2009,Agitation,USA,Other,44 Years,Female,,,Recovered/resolved,Not Serious; ;,Psychiatric disorders
+DSA_33330_2009,06/03/2009,Anxiety,USA,Other,48 Years,Female,37.5 Milligram,,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_33348_2009,28/04/2009,Dizziness,USA,Other,73 Years,Male,1 Dosage forms,1 Days,Recovered/resolved,Not Serious; ; Unlikely,Nervous system disorders
+DSA_33367_2009,13/03/2009,Abasia,USA,Other,46 Years,Female,,1 Days,Unknown,Serious; ;,General disorders and administration site conditions
+DSA_33378_2009,06/04/2009,Nausea,USA,Spontaneous,75 Years,Female,2 Dosage forms,,Recovered/resolved,Not Serious; ; Probable,Gastrointestinal disorders
+DSA_33400_2009,17/03/2009,Rash,USA,Other,65 Years,Female,,,Recovered/resolved,Not Serious; ;,Skin and subcutaneous tissue disorders
+DSA_33403_2009,18/03/2009,Akathisia,USA,Other,60 Years,Female,37.5 Milligram,,Recovered/resolved,Not Serious; ;,Nervous system disorders
+DSA_33404_2009,13/04/2009,Back pain,USA,Other,79 Years,Female,Dosage forms,,Recovered/resolved,Serious; ;,Musculoskeletal and connective tissue disorders
+DSA_33405_2009,18/03/2009,Fatigue,USA,Other,54 Years,Female,50 Milligram,2 Months,Unknown,Not Serious; ;,General disorders and administration site conditions
+DSA_33409_2009,16/04/2009,Asthenia,USA,Spontaneous,58 Years,Female,18.75 Milligram,2 Months,Recovered/resolved,Serious; ; Probable,General disorders and administration site conditions
+DSA_33414_2009,25/03/2009,Anxiety,USA,Other,58 Years,Female,Dosage forms,,Unknown,Not Serious; ;,Psychiatric disorders
+DSA_33417_2009,23/09/2009,Aggression,USA,Other,85 Years,Male,Dosage forms,,Unknown,Not Serious; ;,Psychiatric disorders
+DSA_33418_2009,26/03/2009,Product quality issue,USA,Other,80 Years,Female,,,Unknown,Not Serious; ;,General disorders and administration site conditions
+DSA_33430_2009,26/03/2009,Product quality issue,USA,Other,61 Years,Male,,3 Months,Unknown,Not Serious; ;,General disorders and administration site conditions
+DSA_33434_2009,30/03/2009,Obsessive thoughts,USA,Other,67 Years,Female,Dosage forms,,Unknown,Not Serious; ;,Psychiatric disorders
+DSA_33437_2009,19/05/2009,Crying,USA,Other,6 Years,Female,6.25 Milligram,,Recovered/resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_33439_2009,18/01/2010,Akathisia,USA,Spontaneous,21 Years,Female,25 Milligram,,Recovered/resolved,Not Serious; ;,Nervous system disorders
+DSA_33440_2009,14/08/2009,Blood pressure increased,USA,Spontaneous,55.92 Years,Female,75 Milligram,1 Days,Recovered/resolved,Serious; ; Unknown,Investigations
+DSA_33450_2009,02/04/2009,Communication disorder,USA,Spontaneous,78.42 Years,Female,Dosage forms,2 Days,Recovered/resolved,Serious; ;,Psychiatric disorders
+DSA_33484_2009,01/05/2009,Dystonia,USA,Spontaneous,16 Years,Female,75 Milligram,,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_33485_2009,29/04/2009,Depression,USA,Spontaneous,72 Years,Male,37.5 Milligram,1 Days,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_33488_2009,08/04/2009,Agitation,USA,Other,54 Years,Male,12.5 Milligram,,Recovered/resolved,Not Serious; ;,Psychiatric disorders
+DSA_33490_2009,08/04/2009,VIIth nerve paralysis,USA,Spontaneous,54 Years,Female,12.5 Milligram,,Recovered/resolved,Serious; ;,Nervous system disorders
+DSA_33496_2009,09/04/2009,Myocardial infarction,USA,Spontaneous,41 Years,Female,37.5 Milligram,,Fatal,Serious; ;,Cardiac disorders
+DSA_33497_2009,19/10/2009,Weight decreased,USA,Other,77 Years,Female,37.5 Milligram,,Not recovered/not resolved,Not Serious; ;,Investigations
+DSA_33498_2009,04/05/2009,Confusional state,USA,Other,74 Years,Female,12.5 Milligram,9 Days,Recovered/resolved,Not Serious; ;,Psychiatric disorders
+DSA_33504_2009,21/04/2009,Suicide attempt,USA,Spontaneous,40 Years,Male,12.5 Milligram,,Recovered/resolved,Serious; ;,Psychiatric disorders
+DSA_33505_2009,10/04/2009,Agitation,USA,Other,67 Years,Male,Dosage forms,,Unknown,Serious; ;,Psychiatric disorders
+DSA_33506_2009,10/04/2009,Fatigue,USA,Spontaneous,31 Years,Female,50 Milligram,,Recovered/resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_33507_2009,14/04/2009,Anxiety,USA,Spontaneous,71 Years,Female,75 Milligram,1 Years,Recovering/resolving,Serious; ;,Psychiatric disorders
+DSA_33508_2009,14/04/2009,Crying,USA,Other,38 Years,Female,50 Milligram,,Recovered/resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_33509_2009,10/07/2009,Insomnia,USA,Spontaneous,45 Years,Female,12.5 Milligram,1 Days,Not recovered/not resolved,Not Serious; ; Not Related,Psychiatric disorders
+DSA_33515_2009,02/06/2009,Death,USA,Spontaneous,69 Years,Female,25 Milligram,37 Days,Fatal,Serious; ; Probable,General disorders and administration site conditions
+DSA_33516_2009,17/04/2009,Anger,USA,Spontaneous,45 Years,Male,37.5 Milligram,,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_33524_2009,25/08/2009,Ageusia,USA,Spontaneous,36.75 Years,Male,50 Milligram,6.4 Months,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_33532_2009,20/04/2009,Sedation,USA,Spontaneous,52 Years,Female,37.5 Milligram,1 Days,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_33533_2009,20/04/2009,Drug ineffective,USA,Spontaneous,58 Years,Female,25 Milligram,1 Days,Recovered/resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_33534_2009,06/05/2009,Heart rate irregular,USA,Spontaneous,57 Years,Male,37.5 Milligram,3 Days,Unknown,Not Serious; ;,Investigations
+DSA_33550_2009,11/05/2009,Adverse drug reaction,USA,Spontaneous,58 Years,Male,37.5 Milligram,,Recovered/resolved,Not Serious; ; Possible,General disorders and administration site conditions
+DSA_33551_2009,01/06/2009,Condition aggravated,USA,Spontaneous,25 Years,Male,Dosage forms,,Recovering/resolving,Not Serious; ; Possible,General disorders and administration site conditions
+DSA_33552_2009,22/04/2009,Depression,USA,Spontaneous,69.67 Years,Female,37.5 Milligram,1 Days,Recovered/resolved,Not Serious; ;,Psychiatric disorders
+DSA_33553_2009,21/04/2009,Condition aggravated,USA,Other,15 Years,Male,25 Milligram,,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_33562_2009,24/04/2009,Liver disorder,USA,Spontaneous,55 Years,Female,112.5 Milligram,3.5 Months,Not recovered/not resolved,Serious; ;,Hepatobiliary disorders
+DSA_33564_2009,27/04/2009,Balance disorder,USA,Other,74 Years,Female,75 Milligram,,Recovering/resolving,Not Serious; ;,Nervous system disorders
+DSA_33565_2009,27/04/2009,Drug ineffective for unapproved indication,USA,Other,57 Years,Female,75 Milligram,,Recovered/resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_33573_2009,17/11/2009,Drug ineffective for unapproved indication,USA,Spontaneous,69 Years,Female,12.5 Milligram,1 Days,Recovered/resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_33574_2009,19/05/2009,Diarrhoea,USA,Other,49 Years,Female,12.5 Milligram,2 Hours,Recovered/resolved,Not Serious; ;,Gastrointestinal disorders
+DSA_33578_2009,29/04/2009,Fatigue,USA,Other,41 Years,Male,25 Milligram,2 Months,Unknown,Not Serious; ;,General disorders and administration site conditions
+DSA_33581_2009,30/04/2009,Asthenia,USA,Other,5 Years,Female,12.5 Milligram,,Unknown,Not Serious; ;,General disorders and administration site conditions
+DSA_33582_2009,24/06/2009,Drug ineffective,USA,Other,41 Years,Female,,,Recovered/resolved,Not Serious; ; Probable,General disorders and administration site conditions
+DSA_33583_2009,14/05/2009,Restlessness,USA,Other,59 Years,Male,25 Milligram,,Recovered/resolved,Not Serious; ;,Psychiatric disorders
+DSA_33586_2009,19/05/2009,Drug ineffective for unapproved indication,USA,Spontaneous,74 Years,Male,12.5 Milligram,,Recovered/resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_33588_2009,01/05/2009,Weight decreased,USA,Spontaneous,65 Years,Female,50 Milligram,,Unknown,Not Serious; ; Unknown,Investigations
+DSA_33590_2009,01/05/2009,Somnolence,USA,Spontaneous,74 Years,Female,37.5 Milligram,,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_33594_2009,15/06/2009,Depressed mood,USA,Spontaneous,48 Years,Female,,,Recovered/resolved,Not Serious; ;,Psychiatric disorders
+DSA_33595_2009,04/05/2009,Dyskinesia,USA,Other,54 Years,Female,25 Milligram,,Unknown,Not Serious; ;,Nervous system disorders
+DSA_33596_2009,08/06/2009,Asthenia,USA,Spontaneous,70 Years,Male,12.5 Milligram,,Recovered/resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_33597_2009,27/07/2009,Feeling abnormal,USA,Spontaneous,64 Years,Female,37.5 Milligram,1 Days,Recovered/resolved,Not Serious; ; Possible,General disorders and administration site conditions
+DSA_33598_2009,22/06/2009,Asthenia,USA,Spontaneous,39 Years,Female,25 Milligram,1 Days,Recovered/resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_33599_2009,05/05/2009,Fatigue,USA,Spontaneous,6 Years,Male,Dosage forms,,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_33600_2009,06/05/2009,Death,USA,Spontaneous,61 Years,Male,112.5 Milligram,4 Months,Fatal,Serious; ;,General disorders and administration site conditions
+DSA_33602_2009,06/05/2009,Depression,USA,Other,54 Years,Male,37.5 Milligram,2 Months,Unknown,Not Serious; ;,Psychiatric disorders
+DSA_33605_2009,01/06/2009,Agitation,USA,Spontaneous,17 Years,Male,25 Milligram,,Recovered/resolved,Not Serious; ; Possible,Psychiatric disorders
+DSA_33608_2009,07/05/2009,Agitation,USA,Spontaneous,65 Years,Female,,1 Days,Recovered/resolved,Not Serious; ;,Psychiatric disorders
+DSA_33610_2009,08/05/2009,Dizziness,USA,Spontaneous,33 Years,Female,37.5 Milligram,1 Days,Unknown,Not Serious; ;,Nervous system disorders
+DSA_33612_2009,08/05/2009,Cardiac disorder,USA,Other,83 Years,Female,75 Milligram,62 Months,Fatal,Serious; ;,Cardiac disorders
+DSA_33614_2009,14/07/2009,Musculoskeletal stiffness,USA,Spontaneous,16 Years,Male,50 Milligram,1 Days,Recovered/resolved,Not Serious; ; Probable,Musculoskeletal and connective tissue disorders
+DSA_33616_2009,08/05/2009,Dizziness,USA,Spontaneous,71 Years,Male,37.5 Milligram,,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_33623_2009,23/03/2010,Drug administration error,USA,Spontaneous,62 Years,Female,37.5 Milligram,1 Months,Recovered/resolved,Not Serious; ; Possible,"Injury, poisoning and procedural complications"
+DSA_33624_2009,15/06/2009,Drug ineffective for unapproved indication,USA,Spontaneous,60 Years,Female,12.5 Milligram,1 Days,Recovered/resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_33625_2009,08/06/2009,Alanine aminotransferase increased,USA,Spontaneous,47 Years,Female,25 Milligram,3.5 Months,Recovering/resolving,Serious; ;,Investigations
+DSA_33630_2009,11/05/2009,Drug ineffective for unapproved indication,USA,Spontaneous,46 Years,Female,75 Milligram,,Recovered/resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_33631_2009,13/07/2009,Depression,USA,Spontaneous,66 Years,Male,50 Milligram,83 Days,Recovered/resolved,Not Serious; ; Possible,Psychiatric disorders
+DSA_33632_2009,01/06/2009,Depression,USA,Spontaneous,52 Years,Female,25 Milligram,,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_33633_2009,12/05/2009,Depression,USA,Spontaneous,40 Years,Female,50 Milligram,,Unknown,Not Serious; ;,Psychiatric disorders
+DSA_33634_2009,19/05/2009,Obsessive-compulsive disorder,USA,Other,39 Years,Male,12.5 Milligram,,Recovered/resolved,Serious; ;,Psychiatric disorders
+DSA_33636_2009,29/05/2009,Motor dysfunction,USA,Spontaneous,45 Years,Female,25 Milligram,,Recovered/resolved,Serious; ; Probable,Nervous system disorders
+DSA_33637_2009,12/05/2009,Disease progression,USA,Spontaneous,39 Years,Male,75 Milligram,,Fatal,Serious; ;,General disorders and administration site conditions
+DSA_33638_2009,13/05/2009,Dystonia,USA,Other,52 Years,Female,25 Milligram,,Unknown,Not Serious; ;,Nervous system disorders
+DSA_33639_2009,10/07/2009,Musculoskeletal stiffness,USA,Other,61 Years,Male,75 Milligram,45 Days,Not recovered/not resolved,Not Serious; ;,Musculoskeletal and connective tissue disorders
+DSA_33640_2009,26/06/2009,Incontinence,USA,Spontaneous,45 Years,Female,25 Milligram,,Unknown,Not Serious; ; Probable,Renal and urinary disorders
+DSA_33646_2009,22/05/2009,Fatigue,USA,Spontaneous,28 Years,Female,Dosage forms,,Recovering/resolving,Not Serious; ;,General disorders and administration site conditions
+DSA_33647_2009,16/10/2009,Diarrhoea,USA,Spontaneous,32 Years,Female,75 Milligram,,Not recovered/not resolved,Not Serious; ;,Gastrointestinal disorders
+DSA_33655_2009,14/05/2009,Somnolence,USA,Spontaneous,81 Years,Female,50 Milligram,1 Days,Unknown,Not Serious; ;,Nervous system disorders
+DSA_33659_2009,03/06/2009,Sedation,USA,Spontaneous,72 Years,Female,25 Milligram,1 Months,Recovered/resolved,Not Serious; ; Possible,Nervous system disorders
+DSA_33663_2009,15/05/2009,Depression,USA,Spontaneous,47 Years,Female,75 Milligram,1 Days,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_33664_2009,15/05/2009,Drug ineffective,USA,Spontaneous,67 Years,Female,50 Milligram,2 Months,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_33665_2009,08/09/2009,Gait disturbance,USA,Spontaneous,79 Years,Female,37.5 Milligram,2 Weeks,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_33666_2009,15/05/2009,Anxiety,USA,Spontaneous,72 Years,Male,12.5 Milligram,,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_33667_2009,07/07/2009,Drug administration error,USA,Spontaneous,79 Years,Female,Dosage forms,1 Days,Recovered/resolved,Not Serious; ;,"Injury, poisoning and procedural complications"
+DSA_33669_2009,18/05/2009,Somnolence,USA,Spontaneous,39 Years,Male,25 Milligram,,Recovered/resolved,Not Serious; ;,Nervous system disorders
+DSA_33672_2009,29/06/2009,Anxiety,USA,Spontaneous,74 Years,Female,50 Milligram,,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_33673_2009,01/07/2009,Depression,USA,Spontaneous,64 Years,Male,37.5 Milligram,,Recovered/resolved,Not Serious; ; Possible,Psychiatric disorders
+DSA_33677_2009,14/12/2009,Aggression,USA,Spontaneous,60 Years,Female,25 Milligram,1 Months,Recovered/resolved,Not Serious; ;,Psychiatric disorders
+DSA_33681_2009,22/06/2009,Drug ineffective for unapproved indication,USA,Spontaneous,60 Years,Male,Dosage forms,,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_33682_2009,20/05/2009,Agitation,USA,Spontaneous,55 Years,Male,50 Milligram,1 Months,Unknown,Not Serious; ;,Psychiatric disorders
+DSA_33683_2009,21/05/2009,Depression,USA,Spontaneous,64 Years,Male,100 Milligram,,Unknown,Not Serious; ;,Psychiatric disorders
+DSA_33684_2009,20/05/2009,Asthenia,USA,Other,64 Years,Male,Dosage forms,,Recovered/resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_33685_2009,31/07/2009,Somnolence,USA,Other,72 Years,Female,50 Milligram,,Recovered/resolved,Not Serious; ; Probable,Nervous system disorders
+DSA_33687_2009,11/11/2009,Depression,USA,Spontaneous,43 Years,Female,37.5 Milligram,43 Days,Recovered/resolved,Not Serious; ; Possible,Psychiatric disorders
+DSA_33691_2009,10/08/2009,Anxiety,USA,Other,68 Years,Female,50 Milligram,,Recovered/resolved,Not Serious; ;,Psychiatric disorders
+DSA_33695_2009,19/05/2009,Anxiety,USA,Other,62 Years,Male,25 Milligram,,Unknown,Not Serious; ;,Psychiatric disorders
+DSA_33696_2009,17/06/2009,Suicidal ideation,USA,Spontaneous,55 Years,Female,12.5 Milligram,10 Days,Recovered/resolved,Serious; ; Probable,Psychiatric disorders
+DSA_33702_2009,22/05/2009,Fatigue,USA,Spontaneous,68 Years,Male,25 Milligram,11 Days,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_33703_2009,22/05/2009,Anxiety,USA,Spontaneous,38 Years,Female,50 Milligram,,Unknown,Not Serious; ;,Psychiatric disorders
+DSA_33709_2009,01/09/2009,Diarrhoea,USA,Spontaneous,76 Years,Female,25 Milligram,,Not recovered/not resolved,Serious; ;,Gastrointestinal disorders
+DSA_33710_2009,10/07/2009,Back pain,USA,Other,78 Years,Male,75 Milligram,,Recovered/resolved,Not Serious; ;,Musculoskeletal and connective tissue disorders
+DSA_33711_2009,07/08/2009,Decreased appetite,USA,Spontaneous,62 Years,Male,12.5 Milligram,3 Days,Not recovered/not resolved,Not Serious; ; Not Related,Metabolism and nutrition disorders
+DSA_33712_2009,12/06/2009,Aggression,USA,Spontaneous,39 Years,Male,25 Milligram,,Recovered/resolved,Not Serious; ; Unlikely,Psychiatric disorders
+DSA_33715_2009,12/06/2009,Bradyphrenia,USA,Spontaneous,69 Years,Female,12.5 Milligram,,Recovered/resolved,Not Serious; ; Probable,Psychiatric disorders
+DSA_33719_2009,13/07/2009,Abdominal discomfort,USA,Other,55 Years,Male,75 Milligram,,Unknown,Not Serious; ;,Gastrointestinal disorders
+DSA_33720_2009,10/07/2009,Asthenia,USA,Spontaneous,72 Years,Female,12.5 Milligram,1 Days,Recovered/resolved,Not Serious; ; Possible,General disorders and administration site conditions
+DSA_33721_2009,27/05/2009,Anxiety,USA,Other,67 Years,Male,12.5 Milligram,,Recovered/resolved,Serious; ;,Psychiatric disorders
+DSA_33722_2009,27/05/2009,Nausea,USA,Spontaneous,69 Years,Female,12.5 Milligram,10 Days,Not recovered/not resolved,Not Serious; ;,Gastrointestinal disorders
+DSA_33723_2009,27/05/2009,Aggression,USA,Spontaneous,59 Years,Female,Dosage forms,,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_33724_2009,27/05/2009,Depression,USA,Other,45 Years,Male,50 Milligram,,Recovering/resolving,Not Serious; ;,Psychiatric disorders
+DSA_33728_2009,28/05/2009,Huntington's disease,USA,Other,42 Years,Male,,,Not recovered/not resolved,Serious; ;,"Congenital, familial and genetic disorders"
+DSA_33729_2009,27/05/2009,Headache,USA,Other,,Female,12.5 Milligram,1 Days,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_33730_2009,10/06/2009,Depression,USA,Spontaneous,34 Years,Female,75 Milligram,9 Days,Recovered/resolved,Not Serious; ; Probable,Psychiatric disorders
+DSA_33731_2009,10/07/2009,Chest discomfort,USA,Spontaneous,67 Years,Female,Dosage forms,1 Days,Recovered/resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_33732_2009,13/07/2009,Food aversion,USA,Other,72 Years,Female,25 Milligram,1 Days,Recovered/resolved,Not Serious; ;,Psychiatric disorders
+DSA_33734_2009,07/07/2009,Aggression,USA,Spontaneous,71 Years,Male,100 Milligram,,Recovered/resolved,Serious; ;,Psychiatric disorders
+DSA_33735_2009,05/06/2009,Anxiety,USA,Spontaneous,50 Years,Female,12.5 Milligram,,Recovering/resolving,Serious; ;,Psychiatric disorders
+DSA_33737_2009,28/05/2009,Somnolence,USA,Other,62 Years,Female,25 Milligram,,Unknown,Not Serious; ;,Nervous system disorders
+DSA_33739_2009,22/06/2009,Aggression,USA,Spontaneous,59 Years,Female,25 Milligram,,Recovered/resolved,Not Serious; ;,Psychiatric disorders
+DSA_33741_2009,19/11/2009,Death,USA,Spontaneous,80 Years,Male,50 Milligram,,Fatal,Serious; ; Probable,General disorders and administration site conditions
+DSA_33746_2009,09/07/2009,Drug ineffective for unapproved indication,USA,Spontaneous,63 Years,Female,37.5 Milligram,,Not recovered/not resolved,Not Serious; ; Unlikely,General disorders and administration site conditions
+DSA_33749_2009,28/09/2009,Alopecia,USA,Spontaneous,60 Years,Female,37.5 Milligram,18 Weeks,Not recovered/not resolved,Not Serious; ;,Skin and subcutaneous tissue disorders
+DSA_33750_2009,01/06/2009,Hypotension,USA,Spontaneous,39 Years,Female,37.5 Milligram,53 Days,Recovered/resolved,Not Serious; ;,Vascular disorders
+DSA_33751_2009,01/06/2009,Condition aggravated,USA,Spontaneous,57 Years,Male,37.5 Milligram,,Recovered/resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_33753_2009,05/08/2009,Decreased appetite,USA,Spontaneous,56 Years,Male,75 Milligram,1 Days,Not recovered/not resolved,Not Serious; ;,Metabolism and nutrition disorders
+DSA_33754_2009,01/06/2009,Dystonia,USA,Spontaneous,37 Years,Male,37.5 Milligram,,Unknown,Not Serious; ; Unknown,Nervous system disorders
+DSA_33755_2009,01/06/2009,Drug ineffective for unapproved indication,USA,Other,37 Years,Female,12.5 Milligram,,Recovered/resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_33758_2009,08/09/2009,Abnormal behaviour,USA,Spontaneous,43 Years,Male,25 Milligram,1 Years,Recovering/resolving,Serious; ;,Psychiatric disorders
+DSA_33759_2009,28/01/2010,Abasia,USA,Spontaneous,68 Years,Male,12.5 Milligram,,Recovered/resolved,Serious; ;,General disorders and administration site conditions
+DSA_33765_2009,10/08/2009,Depression,USA,Spontaneous,33 Years,Female,25 Milligram,5 Months,Not recovered/not resolved,Serious; ;,Psychiatric disorders
+DSA_33767_2009,01/07/2009,Agitation,USA,Spontaneous,31 Years,Female,50 Milligram,8 Days,Recovered/resolved,Not Serious; ; Probable,Psychiatric disorders
+DSA_33773_2009,16/07/2009,Anxiety,USA,Spontaneous,39 Years,Female,37.5 Milligram,,Unknown,Not Serious; ; Unlikely,Psychiatric disorders
+DSA_33774_2009,04/06/2009,Depression,USA,Other,58 Years,Male,37.5 Milligram,,Recovered/resolved,Not Serious; ;,Psychiatric disorders
+DSA_33778_2009,03/06/2009,Feeling jittery,USA,Other,39 Years,Male,37.5 Milligram,,Recovered/resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_33779_2009,22/07/2009,Depression,USA,Spontaneous,58 Years,Male,,3 Months,Recovered/resolved,Not Serious; ;,Psychiatric disorders
+DSA_33780_2009,11/06/2009,Dystonia,USA,Spontaneous,11 Years,Male,37.5 Milligram,,Recovered/resolved,Serious; ;,Nervous system disorders
+DSA_33781_2009,07/07/2009,Depressed mood,USA,Spontaneous,45 Years,Female,25 Milligram,,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_33782_2009,04/06/2009,Living in residential institution,USA,Other,23 Years,Female,50 Milligram,,Unknown,Serious; ;,Social circumstances
+DSA_33783_2009,04/06/2009,Dizziness,USA,Other,51 Years,Female,12.5 Milligram,,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_33784_2009,05/06/2009,Constipation,USA,Spontaneous,7 Years,Female,37.5 Milligram,,Recovered/resolved,Not Serious; ;,Gastrointestinal disorders
+DSA_33785_2009,10/03/2010,Depression,USA,Spontaneous,33.25 Years,Female,100 Milligram,14 Months,Unknown,Serious; ;,Psychiatric disorders
+DSA_33786_2009,05/06/2009,Depression,USA,Other,15 Years,Male,25 Milligram,2 Months,Recovering/resolving,Not Serious; ;,Psychiatric disorders
+DSA_33787_2009,05/06/2009,Drug administration error,USA,Other,79 Years,Female,,1 Days,Unknown,Not Serious; ;,"Injury, poisoning and procedural complications"
+DSA_33796_2009,24/06/2009,Somnolence,USA,Other,15 Years,Female,25 Milligram,,Recovered/resolved,Not Serious; ;,Nervous system disorders
+DSA_33816_2009,17/08/2009,Decreased appetite,USA,Other,43 Years,Female,37.5 Milligram,,Recovered/resolved,Not Serious; ; Probable,Metabolism and nutrition disorders
+DSA_33820_2009,05/08/2009,Muscle rigidity,USA,Spontaneous,22 Years,Female,100 Milligram,,Recovering/resolving,Serious; ;,Musculoskeletal and connective tissue disorders
+DSA_33822_2009,10/07/2009,Anxiety,USA,Other,50 Years,Female,12.5 Milligram,,Recovered/resolved,Not Serious; ; Probable,Psychiatric disorders
+DSA_33823_2009,08/07/2009,Akathisia,USA,Other,72 Years,Male,25 Milligram,1 Months,Recovered/resolved,Not Serious; ; Probable,Nervous system disorders
+DSA_33824_2009,09/06/2009,Diarrhoea,USA,Spontaneous,36 Years,Female,25 Milligram,,Unknown,Not Serious; ; Unlikely,Gastrointestinal disorders
+DSA_33825_2009,21/07/2009,Drug administration error,USA,Spontaneous,62 Years,Male,Dosage forms,,Recovered/resolved,Not Serious; ;,"Injury, poisoning and procedural complications"
+DSA_33826_2009,09/06/2009,Chest pain,USA,Spontaneous,66.75 Years,Male,75 Milligram,,Recovered/resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_33827_2009,09/06/2009,Crying,USA,Spontaneous,78 Years,Female,25 Milligram,1 Days,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_33832_2009,10/06/2009,Insomnia,USA,Spontaneous,57 Years,Female,37.5 Milligram,10 Weeks,Recovered/resolved,Not Serious; ;,Psychiatric disorders
+DSA_33833_2009,10/06/2009,Feeling abnormal,USA,Other,,Female,75 Milligram,,Unknown,Not Serious; ;,General disorders and administration site conditions
+DSA_33837_2009,08/06/2009,Fatigue,USA,Other,29 Years,Male,Dosage forms,,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_33838_2009,08/06/2009,Fatigue,USA,Spontaneous,24 Years,Female,75 Milligram,,Recovered/resolved,Not Serious; ; Probable,General disorders and administration site conditions
+DSA_33839_2009,31/07/2009,Depression,USA,Other,,Female,12.5 Milligram,,Unknown,Not Serious; ;,Psychiatric disorders
+DSA_33841_2009,19/06/2009,Excessive eye blinking,USA,Spontaneous,25 Years,Female,75 Milligram,1 Days,Not recovered/not resolved,Not Serious; ;,Eye disorders
+DSA_33842_2009,10/06/2009,Dyskinesia,USA,Other,20 Years,Male,112.5 Milligram,1 Days,Recovered/resolved,Not Serious; ;,Nervous system disorders
+DSA_33843_2009,12/08/2009,Abdominal discomfort,USA,Other,53 Years,Male,37.5 Milligram,,Unknown,Not Serious; ;,Gastrointestinal disorders
+DSA_33844_2009,11/06/2009,Dizziness,USA,Spontaneous,52 Years,Female,50 Milligram,,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_33845_2009,11/06/2009,Crying,USA,Spontaneous,18 Years,Male,37.5 Milligram,1 Months,Recovered/resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_33846_2009,17/07/2009,Crying,USA,Spontaneous,37 Years,Female,25 Milligram,,Recovered/resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_33847_2009,11/06/2009,Depression,USA,Spontaneous,49 Years,Male,75 Milligram,1 Days,Unknown,Not Serious; ;,Psychiatric disorders
+DSA_33851_2009,12/06/2009,Chest discomfort,USA,Spontaneous,60 Years,Female,50 Milligram,1 Days,Recovered/resolved,Not Serious; ; Possible,General disorders and administration site conditions
+DSA_33852_2009,12/06/2009,Agitation,USA,Spontaneous,62 Years,Male,37.5 Milligram,29 Days,Recovered/resolved,Not Serious; ; Possible,Psychiatric disorders
+DSA_33853_2009,12/06/2009,Fatigue,USA,Spontaneous,51 Years,Male,25 Milligram,,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_33854_2009,03/08/2009,Depressed mood,USA,Spontaneous,71 Years,Female,25 Milligram,59 Days,Recovered/resolved,Not Serious; ; Possible,Psychiatric disorders
+DSA_33855_2009,12/06/2009,Crying,USA,Spontaneous,18 Years,Male,37.5 Milligram,1 Months,Recovered/resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_33861_2009,20/07/2009,Depression,USA,Spontaneous,57 Years,Male,37.5 Milligram,,Recovered/resolved,Not Serious; ; Probable,Psychiatric disorders
+DSA_33862_2009,09/07/2009,Somnolence,USA,Spontaneous,,Male,375 Milligram,,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_33863_2009,05/10/2009,Asthenia,USA,Spontaneous,46 Years,Female,12.5 Milligram,,Recovered/resolved,Not Serious; ; Probable,General disorders and administration site conditions
+DSA_33864_2009,23/07/2009,Angiopathy,USA,Spontaneous,50 Years,Male,25 Milligram,,Not recovered/not resolved,Serious; ; Unlikely,Vascular disorders
+DSA_33865_2009,15/06/2009,Depression,USA,Spontaneous,21 Years,Female,37.5 Milligram,,Recovered/resolved,Not Serious; ; Possible,Psychiatric disorders
+DSA_33866_2009,03/08/2009,Hypotension,USA,Other,49 Years,Male,12.5 Milligram,,Recovered/resolved,Not Serious; ;,Vascular disorders
+DSA_33867_2009,20/07/2009,Constipation,USA,Other,41 Years,Male,37.5 Milligram,1 Months,Not recovered/not resolved,Not Serious; ; Possible,Gastrointestinal disorders
+DSA_33868_2009,17/06/2009,Agitation,USA,Spontaneous,25 Years,Male,50 Milligram,1 Weeks,Recovering/resolving,Not Serious; ; Possible,Psychiatric disorders
+DSA_33873_2009,16/06/2009,Depression,USA,Spontaneous,52 Years,Female,50 Milligram,1 Months,Recovering/resolving,Not Serious; ;,Psychiatric disorders
+DSA_33874_2009,16/06/2009,Depression,USA,Spontaneous,69 Years,Female,50 Milligram,,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_33875_2009,16/06/2009,Anxiety,USA,Spontaneous,20 Years,Male,100 Milligram,59 Days,Recovered/resolved,Not Serious; ;,Psychiatric disorders
+DSA_33879_2009,16/06/2009,Depression,USA,Spontaneous,51 Years,Male,75 Milligram,,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_33883_2009,16/06/2009,Dizziness,USA,Spontaneous,45 Years,Male,25 Milligram,9 Days,Unknown,Not Serious; ;,Nervous system disorders
+DSA_33884_2009,01/12/2009,Self-injurious ideation,USA,Spontaneous,19 Years,Male,75 Milligram,,Recovering/resolving,Serious; ;,Psychiatric disorders
+DSA_33885_2009,18/06/2009,Erectile dysfunction,USA,Spontaneous,63 Years,Male,50 Milligram,,Unknown,Not Serious; ;,Reproductive system and breast disorders
+DSA_33888_2009,19/06/2009,Hypokinesia,USA,Spontaneous,56 Years,Female,37.5 Milligram,,Recovered/resolved,Not Serious; ;,Nervous system disorders
+DSA_33898_2009,19/08/2010,Dizziness,USA,Spontaneous,51 Years,Male,75 Milligram,,Recovered/resolved,Not Serious; ; Possible,Nervous system disorders
+DSA_33899_2009,22/06/2009,Dystonia,USA,Spontaneous,17 Years,Male,50 Milligram,,Recovered/resolved,Not Serious; ; Probable,Nervous system disorders
+DSA_33900_2009,22/06/2009,Nausea,USA,Other,79 Years,Female,25 Milligram,,Recovered/resolved,Not Serious; ;,Gastrointestinal disorders
+DSA_33907_2009,25/06/2009,Suicidal ideation,USA,Spontaneous,56 Years,Male,75 Milligram,72 Days,Unknown,Serious; ;,Psychiatric disorders
+DSA_33908_2009,25/06/2009,Incontinence,USA,Other,52 Years,Male,25 Milligram,,Not recovered/not resolved,Serious; ;,Renal and urinary disorders
+DSA_33909_2009,20/07/2009,Blood creatine phosphokinase increased,USA,Spontaneous,18 Years,Male,25 Milligram,31 Days,Recovered/resolved,Serious; ;,Investigations
+DSA_33910_2009,20/07/2009,Chills,USA,Spontaneous,70 Years,Male,12.5 Milligram,2 Days,Recovered/resolved,Not Serious; ; Possible,General disorders and administration site conditions
+DSA_33911_2009,08/09/2009,Somnolence,USA,Spontaneous,55 Years,Male,25 Milligram,,Recovering/resolving,Not Serious; ;,Nervous system disorders
+DSA_33912_2009,23/06/2009,Abdominal pain upper,USA,Other,71 Years,Male,Dosage forms,1 Days,Recovered/resolved,Not Serious; ;,Gastrointestinal disorders
+DSA_33913_2009,23/06/2009,Feeling abnormal,USA,Other,55 Years,Male,12.5 Milligram,,Unknown,Not Serious; ;,General disorders and administration site conditions
+DSA_33914_2009,18/08/2009,Dysphagia,USA,Spontaneous,9 Years,Male,12.5 Milligram,,Recovered/resolved,Not Serious; ;,Gastrointestinal disorders
+DSA_33919_2009,26/06/2009,Abnormal behaviour,USA,Other,32 Years,Female,50 Milligram,,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_33920_2009,20/07/2009,Depression,USA,Other,,Male,75 Milligram,4 Months,Unknown,Not Serious; ;,Psychiatric disorders
+DSA_33933_2009,13/10/2009,Crying,USA,Spontaneous,36 Years,Female,75 Milligram,,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_33940_2009,26/06/2009,Somnolence,USA,Other,54 Years,Female,12.5 Milligram,,Unknown,Not Serious; ;,Nervous system disorders
+DSA_33941_2009,06/11/2009,Fatigue,USA,Spontaneous,8 Years,Female,,,Not recovered/not resolved,Not Serious; ; Probable,General disorders and administration site conditions
+DSA_33942_2009,20/07/2009,Salivary hypersecretion,USA,Spontaneous,61 Years,Female,37.5 Milligram,,Unknown,Not Serious; ;,Gastrointestinal disorders
+DSA_33943_2009,26/10/2009,Coprolalia,USA,Spontaneous,48 Years,Female,25 Milligram,8 Days,Recovered/resolved,Not Serious; ; Probable,Psychiatric disorders
+DSA_33945_2009,30/06/2009,Fall,USA,Other,47 Years,Female,Dosage forms,,Recovered/resolved,Not Serious; ;,"Injury, poisoning and procedural complications"
+DSA_33946_2009,24/07/2009,Grimacing,USA,Spontaneous,51 Years,Female,25 Milligram,3 Months,Recovered/resolved,Not Serious; ; Possible,Nervous system disorders
+DSA_33969_2009,18/08/2009,Fatigue,USA,Spontaneous,58.25 Years,Female,75 Milligram,,Not recovered/not resolved,Not Serious; ; Unlikely,General disorders and administration site conditions
+DSA_33971_2009,07/08/2009,Dizziness,USA,Spontaneous,56.42 Years,Male,75 Milligram,1 Days,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_33976_2009,06/07/2009,Insomnia,USA,Other,38 Years,Female,12.5 Milligram,,Recovered/resolved,Not Serious; ;,Psychiatric disorders
+DSA_33978_2009,07/07/2009,Huntington's disease,USA,Spontaneous,51 Years,Female,25 Milligram,3.3 Months,Fatal,Serious; ;,"Congenital, familial and genetic disorders"
+DSA_33984_2009,04/08/2009,Cognitive disorder,USA,Spontaneous,60 Years,Female,25 Milligram,,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_33985_2009,08/07/2009,Dizziness,USA,Spontaneous,54 Years,Female,37.5 Milligram,2 Months,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_33986_2009,11/08/2009,Aggression,USA,Spontaneous,65 Years,Male,,,Recovered/resolved,Not Serious; ;,Psychiatric disorders
+DSA_33988_2009,01/09/2009,Insomnia,USA,Spontaneous,45 Years,Male,75 Milligram,5 Months,Recovering/resolving,Not Serious; ; Possible,Psychiatric disorders
+DSA_33989_2009,09/07/2009,Fatigue,USA,Spontaneous,70 Years,Female,Dosage forms,,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_33994_2009,25/08/2009,Tremor,USA,Spontaneous,36 Years,Female,150 Milligram,4.2 Months,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_33996_2009,26/08/2009,Crying,USA,Spontaneous,13 Years,Male,25 Milligram,3 Months,Recovered/resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_33997_2009,09/10/2009,Aggression,USA,Spontaneous,48 Years,Male,50 Milligram,,Recovered/resolved,Serious; ;,Psychiatric disorders
+DSA_34001_2009,14/07/2009,Dry mouth,USA,Other,,Female,25 Milligram,,Recovered/resolved,Not Serious; ;,Gastrointestinal disorders
+DSA_34002_2009,01/09/2009,General physical health deterioration,USA,Spontaneous,49 Years,Male,,1 Days,Recovered/resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_34003_2009,13/07/2009,Drug ineffective for unapproved indication,USA,Spontaneous,33 Years,Male,37.5 Milligram,25 Days,Recovered/resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_34004_2009,03/09/2009,Anger,USA,Spontaneous,10 Years,Male,,1 Days,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_34006_2009,29/07/2009,Fall,USA,Spontaneous,61 Years,Male,37.5 Milligram,23 Days,Recovered/resolved,Serious; ;,"Injury, poisoning and procedural complications"
+DSA_34007_2009,08/09/2009,Depression,USA,Spontaneous,62 Years,Male,37.5 Milligram,1 Days,Not recovered/not resolved,Not Serious; ; Possible,Psychiatric disorders
+DSA_34015_2009,01/09/2009,Choking,USA,Other,66 Years,Male,25 Milligram,,Recovered/resolved,Serious; ;,"Respiratory, thoracic and mediastinal disorders"
+DSA_34016_2009,15/07/2009,Hypersomnia,USA,Spontaneous,54 Years,Male,75 Milligram,,Unknown,Not Serious; ;,Nervous system disorders
+DSA_34020_2009,16/07/2009,Cold sweat,USA,Spontaneous,48 Years,Male,25 Milligram,41 Days,Recovered/resolved,Serious; ;,Skin and subcutaneous tissue disorders
+DSA_34035_2009,17/07/2009,Abdominal discomfort,USA,Spontaneous,46 Years,Male,,1 Days,Not recovered/not resolved,Not Serious; ;,Gastrointestinal disorders
+DSA_34041_2009,17/07/2009,Fatigue,USA,Spontaneous,25 Years,Male,25 Milligram,50 Days,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_34043_2009,11/09/2009,Dizziness,USA,Spontaneous,70 Years,Male,12.5 Milligram,1 Days,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_34044_2009,08/09/2009,Agitation,USA,Spontaneous,23 Years,Female,12.5 Milligram,1 Days,Recovered/resolved,Not Serious; ; Possible,Psychiatric disorders
+DSA_34050_2009,08/09/2009,Depression,USA,Spontaneous,51 Years,Female,37.5 Milligram,,Unknown,Not Serious; ;,Psychiatric disorders
+DSA_34055_2009,22/07/2009,Hypersomnia,USA,Spontaneous,10 Years,Male,75 Milligram,,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_34056_2009,21/09/2009,Anxiety,USA,Spontaneous,82 Years,Female,12.5 Milligram,,Recovered/resolved,Not Serious; ; Probable,Psychiatric disorders
+DSA_34068_2009,08/09/2009,Abnormal behaviour,USA,Other,29 Years,Female,50 Milligram,3 Months,Unknown,Not Serious; ;,Psychiatric disorders
+DSA_34073_2009,23/07/2009,Tardive dyskinesia,USA,Spontaneous,53 Years,Female,75 Milligram,62 Days,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_34087_2009,09/11/2009,Amenorrhoea,USA,Spontaneous,31 Years,Female,200 Milligram,5 Months,Not recovered/not resolved,Serious; ; Possible,Reproductive system and breast disorders
+DSA_34091_2009,27/07/2009,Agitation,USA,Spontaneous,15 Years,Female,75 Milligram,,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_34095_2009,24/08/2009,Huntington's disease,USA,Spontaneous,36 Years,Male,37.5 Milligram,4 Months,Fatal,Serious; ;,"Congenital, familial and genetic disorders"
+DSA_34097_2009,27/07/2009,Tremor,USA,Spontaneous,,Male,12.5 Milligram,,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_34103_2009,21/07/2009,Abnormal behaviour,CANADA,Other,56 Years,Female,.5 Dosage forms,,Recovered/resolved,Not Serious; ;,Psychiatric disorders
+DSA_34104_2009,21/07/2009,Anxiety,CANADA,Spontaneous,47 Years,Female,Dosage forms,,Unknown,Not Serious; ;,Psychiatric disorders
+DSA_34110_2009,27/08/2009,Fatigue,USA,Spontaneous,62 Years,Male,37.5 Milligram,1 Days,Recovered/resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_34111_2009,19/10/2009,Nausea,USA,Spontaneous,58 Years,Female,12.5 Milligram,1 Days,Recovered/resolved,Serious; ;,Gastrointestinal disorders
+DSA_34112_2009,01/09/2009,Crying,USA,Spontaneous,57 Years,Female,75 Milligram,2 Months,Recovered/resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_34114_2009,16/09/2009,Crying,USA,Other,60 Years,Female,25 Milligram,1 Days,Not recovered/not resolved,Not Serious; ; Possible,General disorders and administration site conditions
+DSA_34121_2009,04/09/2009,Activities of daily living impaired,USA,Other,,Male,25 Milligram,1 Years,Unknown,Serious; ;,Social circumstances
+DSA_40512_2009,03/08/2009,Hallucination,USA,Other,62 Years,Female,37.5 Milligram,,Recovered/resolved,Not Serious; ;,Psychiatric disorders
+DSA_40513_2009,03/08/2009,Anaphylactic reaction,USA,Spontaneous,52 Years,Female,25 Milligram,1 Days,Unknown,Serious; ;,Immune system disorders
+DSA_40516_2009,06/11/2009,Anger,USA,Spontaneous,54 Years,Female,37.5 Milligram,2 Months,Recovered/resolved,Not Serious; ;,Psychiatric disorders
+DSA_40525_2009,04/08/2009,Somnolence,USA,Spontaneous,21 Years,Male,12.5 Milligram,,Unknown,Not Serious; ;,Nervous system disorders
+DSA_40532_2009,14/09/2009,Depression,USA,Spontaneous,53 Years,Male,Dosage forms,,Recovered/resolved,Not Serious; ; Certain,Psychiatric disorders
+DSA_40534_2009,04/08/2009,Insomnia,USA,Spontaneous,50 Years,Female,50 Milligram,2 Months,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_40535_2009,03/08/2009,Dystonia,USA,Spontaneous,,,37.5 Milligram,,Unknown,Not Serious; ;,Nervous system disorders
+DSA_40536_2009,05/08/2009,Depression,USA,Spontaneous,46 Years,Male,25 Milligram,,Unknown,Not Serious; ;,Psychiatric disorders
+DSA_40539_2009,21/09/2009,Syncope,USA,Spontaneous,90 Years,Female,50 Milligram,1 Months,Recovered/resolved,Serious; ; Not Related,Nervous system disorders
+DSA_40541_2009,18/09/2009,Musculoskeletal stiffness,USA,Spontaneous,60 Years,Female,12 Milligram,,Not recovered/not resolved,Not Serious; ;,Musculoskeletal and connective tissue disorders
+DSA_40543_2009,05/08/2009,Insomnia,USA,Other,19 Years,Male,25 Milligram,,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_40545_2009,09/11/2009,Asthenia,USA,Spontaneous,46 Years,Female,12.5 Milligram,,Recovered/resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_40546_2009,05/08/2009,Anxiety,USA,Other,64 Years,Female,50 Milligram,16 Days,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_40548_2009,21/09/2009,Aspiration,USA,Spontaneous,52 Years,Male,37.5 Milligram,,Unknown,Not Serious; ;,"Respiratory, thoracic and mediastinal disorders"
+DSA_40550_2009,06/08/2009,Depression,USA,Spontaneous,48.92 Years,Female,75 Milligram,3 Months,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_40551_2009,05/10/2009,Insomnia,USA,Spontaneous,42 Years,Female,25 Milligram,54 Days,Recovered/resolved,Not Serious; ; Not Related,Psychiatric disorders
+DSA_40555_2009,05/10/2009,Somnolence,USA,Spontaneous,48 Years,Male,37.5 Milligram,,Unknown,Not Serious; ;,Nervous system disorders
+DSA_40556_2009,01/09/2009,Blood glucose fluctuation,USA,Spontaneous,75 Years,Female,Dosage forms,,Unknown,Not Serious; ; Unknown,Investigations
+DSA_40557_2009,08/09/2009,Drug administration error,USA,Spontaneous,78 Years,Female,25 Milligram,89 Days,Recovered/resolved,Not Serious; ;,"Injury, poisoning and procedural complications"
+DSA_40564_2009,11/09/2009,Chills,USA,Spontaneous,74 Years,Male,50 Milligram,,Unknown,Not Serious; ;,General disorders and administration site conditions
+DSA_40566_2009,25/08/2009,Depression,USA,Other,52 Years,Female,37.5 Milligram,1 Months,Unknown,Not Serious; ;,Psychiatric disorders
+DSA_40567_2009,22/09/2009,Depression,USA,Spontaneous,55 Years,Female,12.5 Milligram,1 Days,Recovered/resolved,Not Serious; ;,Psychiatric disorders
+DSA_40573_2009,11/08/2009,Abdominal discomfort,USA,Spontaneous,65 Years,Male,50 Milligram,,Unknown,Not Serious; ;,Gastrointestinal disorders
+DSA_40574_2009,01/10/2009,Agitation,USA,Spontaneous,44 Years,Male,37.5 Milligram,,Recovered/resolved,Not Serious; ; Not Related,Psychiatric disorders
+DSA_40576_2009,01/09/2009,Gastrointestinal haemorrhage,USA,Spontaneous,53 Years,Male,75 Milligram,7 Weeks,Fatal,Serious; ; Not Related,Gastrointestinal disorders
+DSA_40580_2009,15/09/2009,Crying,USA,Spontaneous,37 Years,Female,12.5 Milligram,,Recovered/resolved,Not Serious; ; Possible,General disorders and administration site conditions
+DSA_40581_2009,12/08/2009,Myalgia,USA,Spontaneous,84 Years,Female,75 Milligram,1 Months,Unknown,Not Serious; ;,Musculoskeletal and connective tissue disorders
+DSA_40582_2009,13/08/2009,Fatigue,USA,Other,44 Years,Female,12.5 Milligram,1 Days,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_40587_2009,09/11/2009,Drooling,USA,Spontaneous,48 Years,Female,37.5 Milligram,20 Days,Recovered/resolved,Not Serious; ; Probable,Nervous system disorders
+DSA_40603_2009,29/03/2010,Agitation,USA,Spontaneous,71 Years,Female,25 Milligram,12 Days,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_40604_2009,21/10/2009,Agitation,USA,Spontaneous,43 Years,Female,25 Milligram,,Recovered/resolved,Not Serious; ; Probable,Psychiatric disorders
+DSA_40605_2009,15/04/2010,Blood urea decreased,GERMANY,Other,72 Years,Female,100 Milligram,8 Months,Recovered/resolved,Serious; ;,Investigations
+DSA_40606_2009,19/08/2009,Dystonia,USA,Spontaneous,46 Years,Male,25 Milligram,36 Days,Unknown,Not Serious; ;,Nervous system disorders
+DSA_40607_2009,19/08/2009,Somnolence,USA,Spontaneous,62.17 Years,Female,50 Milligram,,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_40609_2009,20/08/2009,Drug ineffective,USA,Spontaneous,,Male,25 Milligram,,Unknown,Not Serious; ;,General disorders and administration site conditions
+DSA_41524_2009,21/08/2009,Depression,USA,Spontaneous,70 Years,Female,25 Milligram,,Unknown,Not Serious; ;,Psychiatric disorders
+DSA_41525_2009,21/08/2009,Death,USA,Other,52 Years,Female,75 Milligram,6.1 Months,Fatal,Serious; ;,General disorders and administration site conditions
+DSA_41526_2009,20/08/2009,Somnolence,USA,Spontaneous,74.5 Years,Female,,1 Days,Recovered/resolved,Not Serious; ;,Nervous system disorders
+DSA_41528_2009,21/08/2009,Drug ineffective,USA,Other,32 Years,Female,12.5 Milligram,,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_41537_2009,27/10/2009,Abdominal distension,USA,Spontaneous,46 Years,Female,25 Milligram,1 Years,Not recovered/not resolved,Not Serious; ;,Gastrointestinal disorders
+DSA_41541_2009,25/08/2009,Torticollis,USA,Spontaneous,11 Years,Male,37.5 Milligram,1 Months,Unknown,Serious; ;,Musculoskeletal and connective tissue disorders
+DSA_41545_2009,26/08/2009,Hypersomnia,USA,Spontaneous,85 Years,Male,37.5 Milligram,,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_41549_2009,19/10/2009,Confusional state,USA,Spontaneous,59 Years,Male,25 Milligram,4 Days,Recovered/resolved,Not Serious; ;,Psychiatric disorders
+DSA_41551_2009,04/09/2009,Cough,USA,Other,43 Years,Female,12.5 Milligram,,Not recovered/not resolved,Serious; ; Not Related,"Respiratory, thoracic and mediastinal disorders"
+DSA_41558_2009,21/10/2009,Lethargy,USA,Spontaneous,46 Years,Male,50 Milligram,,Unknown,Not Serious; ;,Nervous system disorders
+DSA_41559_2009,17/11/2009,Condition aggravated,USA,Spontaneous,54.5 Years,Female,37.5 Milligram,,Recovered/resolved,Not Serious; ; Possible,General disorders and administration site conditions
+DSA_41562_2009,28/08/2009,Agitation,USA,Other,58 Years,Male,75 Milligram,1 Months,Unknown,Serious; ;,Psychiatric disorders
+DSA_41568_2009,31/08/2009,Diarrhoea,USA,Other,54 Years,Female,50 Milligram,,Unknown,Not Serious; ;,Gastrointestinal disorders
+DSA_41569_2009,21/07/2010,Somnolence,USA,Spontaneous,48 Years,Female,37.5 Milligram,,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_41588_2009,02/09/2009,Hypoglycaemia,USA,Spontaneous,54 Years,Male,25 Milligram,8 Months,Not recovered/not resolved,Serious; ; Unlikely,Metabolism and nutrition disorders
+DSA_41594_2009,03/09/2009,Insomnia,USA,Spontaneous,37 Years,Male,37.5 Milligram,22 Days,Unknown,Not Serious; ;,Psychiatric disorders
+DSA_41596_2009,03/09/2009,Drooling,USA,Other,21.08 Years,Female,25 Milligram,,Unknown,Not Serious; ;,Nervous system disorders
+DSA_41603_2009,04/09/2009,Fatigue,USA,Spontaneous,46 Years,Female,75 Milligram,3 Months,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_41613_2009,08/09/2009,Asthenia,USA,Spontaneous,61 Years,Female,50 Milligram,1 Days,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_41614_2009,08/09/2009,Headache,USA,Other,51 Years,Male,37.5 Milligram,,Unknown,Serious; ;,Nervous system disorders
+DSA_41617_2009,30/10/2009,Depression,USA,Spontaneous,36 Years,Male,12.5 Milligram,1 Months,Recovered/resolved,Not Serious; ;,Psychiatric disorders
+DSA_41620_2009,19/10/2009,Aggression,USA,Other,,Female,12.5 Milligram,1 Years,Unknown,Not Serious; ;,Psychiatric disorders
+DSA_41622_2009,09/09/2009,Movement disorder,USA,Spontaneous,11 Years,Male,25 Milligram,1 Days,Recovered/resolved,Not Serious; ;,Nervous system disorders
+DSA_41627_2009,23/10/2009,Tremor,USA,Other,21 Years,Male,50 Milligram,,Unknown,Not Serious; ;,Nervous system disorders
+DSA_41632_2009,10/09/2009,Crying,USA,Spontaneous,59 Years,Female,37.5 Milligram,,Unknown,Serious; ;,General disorders and administration site conditions
+DSA_41633_2009,01/09/2009,Psychotic disorder,CANADA,Spontaneous,,Male,25,,Unknown,Serious; ;,Psychiatric disorders
+DSA_41637_2009,19/10/2009,Sensation of heaviness,USA,Spontaneous,62.33 Years,Female,Dosage forms,1 Months,Recovering/resolving,Not Serious; ; Possible,Musculoskeletal and connective tissue disorders
+DSA_41642_2009,11/12/2009,Drug ineffective,USA,Spontaneous,82 Years,Female,50 Milligram,5.9 Months,Recovered/resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_41643_2009,23/10/2009,Depression,USA,Spontaneous,50 Years,Female,100 Milligram,30 Weeks,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_41644_2009,15/09/2009,Dyskinesia,USA,Spontaneous,70 Years,Female,,,Unknown,Not Serious; ;,Nervous system disorders
+DSA_41645_2009,21/12/2009,Fatigue,USA,Other,51 Years,Female,37.5 Milligram,,Recovered/resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_41649_2009,22/10/2009,Abnormal behaviour,USA,Spontaneous,56 Years,Female,37.5 Milligram,1 Months,Recovered/resolved,Serious; ; Unlikely,Psychiatric disorders
+DSA_41656_2009,17/09/2009,Antisocial behaviour,USA,Spontaneous,43 Years,Male,25 Milligram,4 Months,Not recovered/not resolved,Serious; ;,Psychiatric disorders
+DSA_41657_2009,19/10/2009,Disturbance in attention,USA,Spontaneous,54.08 Years,Male,,2 Days,Recovered/resolved,Not Serious; ; Unlikely,Nervous system disorders
+DSA_41659_2009,30/10/2009,Drug ineffective,USA,Spontaneous,65 Years,Female,Dosage forms,,Recovered/resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_41661_2009,13/11/2009,Balance disorder,USA,Other,60 Years,Female,Dosage forms,,Recovering/resolving,Not Serious; ; Probable,Nervous system disorders
+DSA_41669_2009,09/12/2009,Anaemia,USA,Spontaneous,41 Years,Female,50 Milligram,27 Weeks,Recovered/resolved,Serious; ;,Blood and lymphatic system disorders
+DSA_41671_2009,19/11/2009,Crying,USA,Spontaneous,65 Years,Female,25 Milligram,1 Days,Recovered/resolved,Serious; ; Certain,General disorders and administration site conditions
+DSA_41673_2009,18/09/2009,Movement disorder,UNITED KINGDOM,Spontaneous,75 Years,Male,62.5 Milligram,,Unknown,Serious; ;,Nervous system disorders
+DSA_41676_2009,21/09/2009,Blood pressure fluctuation,USA,Other,82 Years,Female,Dosage forms,,Unknown,Not Serious; ;,Vascular disorders
+DSA_41680_2009,21/10/2009,Dizziness,USA,Other,51 Years,Female,100 Milligram,3 Months,Recovered/resolved,Not Serious; ;,Nervous system disorders
+DSA_41683_2009,22/09/2009,Balance disorder,USA,Other,46 Years,Male,12.5 Milligram,1 Days,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_41685_2009,29/10/2009,Decreased appetite,USA,Spontaneous,66 Years,Male,75 Milligram,,Recovered/resolved,Not Serious; ;,Metabolism and nutrition disorders
+DSA_41688_2009,11/12/2009,Somnolence,USA,Spontaneous,27 Years,Female,25 Milligram,1 Days,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_41689_2009,22/09/2009,Asthenia,USA,Spontaneous,47 Years,Female,12.5 Milligram,1 Days,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_41691_2009,10/11/2009,Dizziness,USA,Other,,Female,Dosage forms,,Unknown,Not Serious; ;,Nervous system disorders
+DSA_41696_2009,21/09/2009,Balance disorder,USA,Spontaneous,38 Years,Female,37.5 Milligram,1 Months,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_41698_2009,21/09/2009,Alopecia,USA,Spontaneous,60 Years,Female,Dosage forms,7 Months,Not recovered/not resolved,Not Serious; ;,Skin and subcutaneous tissue disorders
+DSA_41701_2009,21/09/2009,Death,USA,Other,79 Years,Female,Dosage forms,14 Years,Fatal,Serious; ;,General disorders and administration site conditions
+DSA_41703_2009,21/09/2009,Overdose,USA,Other,,Female,Dosage forms,,Unknown,Serious; ;,"Injury, poisoning and procedural complications"
+DSA_41708_2009,21/09/2009,Constipation,USA,Other,34 Years,Female,Dosage forms,,Fatal,Serious; ;,Gastrointestinal disorders
+DSA_41716_2009,22/09/2009,Amnesia,USA,Other,50 Years,Female,Dosage forms,,Unknown,Not Serious; ;,Nervous system disorders
+DSA_41719_2009,21/09/2009,Somnolence,USA,Other,,Male,Dosage forms,,Unknown,Not Serious; ;,Nervous system disorders
+DSA_41721_2009,24/09/2009,Hyperhidrosis,USA,Other,76.17 Years,Female,12.5 Milligram,5 Months,Not recovered/not resolved,Not Serious; ;,Skin and subcutaneous tissue disorders
+DSA_41722_2009,23/09/2009,Urinary incontinence,USA,Spontaneous,57 Years,Male,25 Milligram,13 Weeks,Unknown,Not Serious; ;,Renal and urinary disorders
+DSA_41728_2009,23/09/2009,Drug ineffective for unapproved indication,USA,Other,,Male,Dosage forms,,Unknown,Serious; ;,General disorders and administration site conditions
+DSA_41734_2009,23/10/2009,Depression,USA,Other,45.67 Years,Male,Dosage forms,71 Days,Recovering/resolving,Not Serious; ; Unlikely,Psychiatric disorders
+DSA_41737_2009,26/10/2009,Drug ineffective for unapproved indication,USA,Spontaneous,10 Years,Female,62.5 Milligram,9 Months,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_41740_2009,26/10/2009,Sedation,USA,Spontaneous,,Male,75 Milligram,,Not recovered/not resolved,Not Serious; ; Unknown,Nervous system disorders
+DSA_41741_2009,28/09/2009,Depression,USA,Spontaneous,53 Years,Male,25 Milligram,,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_41742_2009,10/08/2010,Back pain,USA,Spontaneous,24 Years,Female,37.5 Milligram,4 Years,Not recovered/not resolved,Not Serious; ;,Musculoskeletal and connective tissue disorders
+DSA_41743_2009,19/10/2009,Insomnia,USA,Spontaneous,64 Years,Female,100 Milligram,,Unknown,Not Serious; ; Certain,Psychiatric disorders
+DSA_41748_2009,11/02/2010,Bradyphrenia,USA,Spontaneous,55 Years,Male,62.5 Milligram,,Not recovered/not resolved,Serious; ;,Psychiatric disorders
+DSA_41750_2009,29/09/2009,Asthenia,USA,Other,37.33 Years,Male,25 Milligram,11 Days,Unknown,Not Serious; ;,General disorders and administration site conditions
+DSA_41760_2009,29/09/2009,Bruxism,USA,Spontaneous,52 Years,Female,25 Milligram,2 Days,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_41768_2009,06/11/2009,Dysarthria,USA,Spontaneous,38 Years,Male,37.5 Milligram,20 Days,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_41769_2009,26/10/2009,Condition aggravated,USA,Spontaneous,12 Years,Male,50 Milligram,16 Days,Unknown,Not Serious; ;,General disorders and administration site conditions
+DSA_41776_2009,30/09/2009,Suicidal ideation,USA,Other,15 Years,Male,12.5 Milligram,,Unknown,Serious; ;,Psychiatric disorders
+DSA_41779_2009,08/03/2010,Asthenia,USA,Spontaneous,68 Years,Female,25 Milligram,15 Days,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_41784_2009,22/10/2009,Condition aggravated,USA,Spontaneous,55 Years,Female,75 Milligram,53 Days,Recovering/resolving,Not Serious; ; Possible,General disorders and administration site conditions
+DSA_41787_2009,02/10/2009,Depression,USA,Other,,Female,100 Milligram,6 Months,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_41788_2009,02/10/2009,Activities of daily living impaired,USA,Other,,Male,50 Milligram,,Not recovered/not resolved,Not Serious; ;,Social circumstances
+DSA_41791_2009,30/12/2009,Violence-related symptom,USA,Spontaneous,68.83 Years,Female,50 Milligram,1 Days,Recovered/resolved,Not Serious; ;,Psychiatric disorders
+DSA_41793_2009,10/11/2009,Abnormal behaviour,USA,Spontaneous,55.58 Years,Male,12.5 Milligram,,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_41794_2009,05/10/2009,Depressed mood,USA,Other,69 Years,Male,25 Milligram,,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_41795_2009,05/10/2009,Contusion,USA,Spontaneous,60 Years,Female,25 Milligram,,Recovered/resolved,Serious; ;,"Injury, poisoning and procedural complications"
+DSA_41802_2009,06/10/2009,Pulmonary embolism,USA,Spontaneous,78 Years,Male,75 Milligram,,Unknown,Serious; ;,"Respiratory, thoracic and mediastinal disorders"
+DSA_41812_2009,07/10/2009,Anxiety,USA,Other,58 Years,Male,25 Milligram,,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_41815_2009,26/10/2009,Agitation,USA,Spontaneous,48 Years,Female,25 Milligram,,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_41819_2009,09/10/2009,Fatigue,USA,Spontaneous,82 Years,Female,12.5 Milligram,1 Days,Recovered/resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_41821_2009,09/10/2009,Tardive dyskinesia,USA,Other,81 Years,Female,Dosage forms,8 Months,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_41822_2009,14/10/2009,Breath sounds abnormal,USA,Spontaneous,66 Years,Male,75 Milligram,,Recovered/resolved,Not Serious; ;,Investigations
+DSA_41824_2009,12/10/2009,Rash,USA,Spontaneous,62 Years,Male,Dosage forms,6 Months,Unknown,Not Serious; ;,Skin and subcutaneous tissue disorders
+DSA_41832_2009,16/11/2009,Aspiration,USA,Spontaneous,65 Years,Female,Dosage forms,25 Weeks,Fatal,Serious; ; Not Related,"Respiratory, thoracic and mediastinal disorders"
+DSA_41833_2009,14/10/2009,Feeling abnormal,USA,Other,46 Years,Female,12.5 Milligram,,Unknown,Not Serious; ;,General disorders and administration site conditions
+DSA_41837_2009,15/10/2009,Agitation,USA,Other,74 Years,Female,25 Milligram,57 Days,Unknown,Not Serious; ;,Psychiatric disorders
+DSA_41838_2009,09/11/2009,Nausea,USA,Spontaneous,46 Years,Female,Dosage forms,,Recovered/resolved,Not Serious; ;,Gastrointestinal disorders
+DSA_41839_2009,15/10/2009,Drug ineffective,USA,Spontaneous,78 Years,Female,Dosage forms,8 Weeks,Unknown,Not Serious; ;,General disorders and administration site conditions
+DSA_41845_2009,15/10/2009,Abnormal behaviour,USA,Spontaneous,68 Years,Female,12.5 Milligram,32 Days,Unknown,Serious; ;,Psychiatric disorders
+DSA_41846_2009,19/10/2009,Akathisia,USA,Other,,Female,Dosage forms,,Unknown,Not Serious; ;,Nervous system disorders
+DSA_41862_2009,17/05/2010,Hallucination,USA,Spontaneous,,Female,25 Milligram,3 Years,Not recovered/not resolved,Serious; ;,Psychiatric disorders
+DSA_41863_2009,20/10/2009,Somnolence,USA,Spontaneous,44 Years,Male,25 Milligram,52 Days,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_41865_2009,19/10/2011,Anxiety,USA,Spontaneous,76 Years,Female,75 Milligram,30 Months,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_41867_2009,21/10/2009,Aggression,USA,Spontaneous,,Male,25 Milligram,,Not recovered/not resolved,Serious; ; Unlikely,Psychiatric disorders
+DSA_41868_2009,01/12/2009,Dry mouth,USA,Spontaneous,26 Years,Female,37.5 Milligram,1 Days,Recovered/resolved,Not Serious; ; Certain,Gastrointestinal disorders
+DSA_41869_2009,29/10/2009,Crying,USA,Spontaneous,33 Years,Female,Dosage forms,10 Weeks,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_41870_2009,01/12/2009,Depression,USA,Spontaneous,47 Years,Female,75 Milligram,3 Months,Recovered/resolved,Serious; ; Probable,Psychiatric disorders
+DSA_41875_2009,20/10/2009,Hypertension,ISRAEL,Spontaneous,9 Years,Male,Dosage forms,,Unknown,Serious; ;,Vascular disorders
+DSA_41876_2009,22/10/2009,Condition aggravated,USA,Other,17 Years,Male,12.5 Milligram,,Not recovered/not resolved,Serious; ;,General disorders and administration site conditions
+DSA_41886_2009,23/10/2009,Depression,USA,Other,30 Years,Female,75 Milligram,1 Months,Recovering/resolving,Not Serious; ;,Psychiatric disorders
+DSA_41890_2009,25/10/2009,Fall,USA,Spontaneous,75 Years,Female,100 Milligram,2 Months,Not recovered/not resolved,Serious; ;,"Injury, poisoning and procedural complications"
+DSA_41892_2009,26/10/2009,Movement disorder,USA,Spontaneous,40 Years,Female,50 Milligram,4 Months,Recovered/resolved,Not Serious; ;,Nervous system disorders
+DSA_41894_2009,27/10/2009,Somnolence,USA,Other,33.17 Years,Male,25 Milligram,5.4 Months,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_41895_2009,26/10/2009,Abdominal pain,FRANCE,Spontaneous,12 Years,Male,12.5 Milligram,,Recovered/resolved,Serious; ; Certain,Gastrointestinal disorders
+DSA_41896_2009,27/10/2009,Hypersensitivity,USA,Other,,Female,12.5 Milligram,,Unknown,Not Serious; ;,Immune system disorders
+DSA_41898_2009,19/11/2009,Drug administration error,USA,Spontaneous,27 Years,Female,,1 Days,Not recovered/not resolved,Not Serious; ;,"Injury, poisoning and procedural complications"
+DSA_41899_2009,27/10/2009,Fatigue,USA,Spontaneous,27 Years,Male,75 Milligram,,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_41900_2009,28/10/2009,Cardiac failure congestive,USA,Spontaneous,73 Years,Female,12.5 Milligram,3.7 Months,Unknown,Serious; ;,Cardiac disorders
+DSA_41902_2009,10/12/2009,Crying,USA,Spontaneous,17 Years,Female,50 Milligram,,Recovered/resolved,Serious; ; Possible,General disorders and administration site conditions
+DSA_41909_2009,19/02/2010,Depression,USA,Spontaneous,48 Years,Female,12.5 Milligram,6 Months,Unknown,Serious; ;,Psychiatric disorders
+DSA_41910_2009,29/10/2009,Somnolence,USA,Other,15 Years,Male,Dosage forms,8 Months,Unknown,Not Serious; ;,Nervous system disorders
+DSA_41911_2009,11/12/2009,Abnormal loss of weight,USA,Spontaneous,50 Years,Female,50 Milligram,2 Months,Fatal,Serious; ;,Metabolism and nutrition disorders
+DSA_41914_2009,29/10/2009,Asthenia,USA,Other,71 Years,Female,37.5 Milligram,1 Months,Unknown,Not Serious; ;,General disorders and administration site conditions
+DSA_41915_2009,29/10/2009,Insomnia,USA,Other,40 Years,Female,25 Milligram,1 Weeks,Recovered/resolved,Not Serious; ;,Psychiatric disorders
+DSA_41918_2009,02/11/2009,Incontinence,USA,Spontaneous,,Female,25 Milligram,,Not recovered/not resolved,Not Serious; ;,Renal and urinary disorders
+DSA_41919_2009,30/10/2009,Somnolence,USA,Spontaneous,12 Years,Male,75 Milligram,,Unknown,Not Serious; ;,Nervous system disorders
+DSA_41922_2009,02/11/2009,Somnolence,USA,Spontaneous,55 Years,Female,12.5 Milligram,,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_41923_2009,02/11/2009,Abnormal behaviour,USA,Spontaneous,34 Years,Male,37.5 Milligram,5.1 Months,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_41928_2009,23/12/2009,Abdominal hernia,USA,Spontaneous,18 Years,Male,Dosage forms,1 Months,Fatal,Serious; ; Possible,Gastrointestinal disorders
+DSA_41929_2009,02/02/2010,Drug administration error,USA,Other,38 Years,Female,37.5 Milligram,26 Weeks,Recovered/resolved,Not Serious; ;,"Injury, poisoning and procedural complications"
+DSA_41941_2009,11/01/2010,Crying,USA,Spontaneous,54 Years,Female,75 Milligram,6 Months,Not recovered/not resolved,Serious; ; Possible,General disorders and administration site conditions
+DSA_41942_2009,04/11/2009,Depression,USA,Spontaneous,9 Years,Female,25 Milligram,37 Days,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_41944_2009,01/02/2010,Abdominal distension,USA,Spontaneous,69 Years,Female,37.5 Milligram,,Not recovered/not resolved,Not Serious; ;,Gastrointestinal disorders
+DSA_41956_2009,14/12/2009,Insomnia,USA,Spontaneous,80 Years,Female,50 Milligram,,Recovered/resolved,Not Serious; ; Possible,Psychiatric disorders
+DSA_41962_2009,05/11/2009,Depression,USA,Other,69 Years,Male,37.5 Milligram,,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_41964_2009,05/11/2010,Drug administration error,USA,Spontaneous,50 Years,Male,37.5 Milligram,,Recovered/resolved,Not Serious; ;,"Injury, poisoning and procedural complications"
+DSA_41965_2009,05/11/2009,Dizziness,USA,Spontaneous,65 Years,Female,12.5 Milligram,1 Days,Unknown,Not Serious; ;,Nervous system disorders
+DSA_41966_2009,05/11/2009,Agitation,USA,Spontaneous,61 Years,Female,50 Milligram,1 Days,Unknown,Not Serious; ;,Psychiatric disorders
+DSA_41977_2009,09/11/2009,Depression,USA,Other,35 Years,Male,37.5 Milligram,,Unknown,Not Serious; ;,Psychiatric disorders
+DSA_41978_2009,09/11/2009,Somnolence,USA,Spontaneous,79 Years,Female,25 Milligram,,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_41980_2009,10/11/2009,Crying,USA,Spontaneous,56 Years,Female,12.5 Milligram,1 Months,Unknown,Not Serious; ;,General disorders and administration site conditions
+DSA_41990_2009,09/11/2009,Convulsion,USA,Spontaneous,,Male,Dosage forms,,Recovered/resolved,Serious; ;,Nervous system disorders
+DSA_41999_2009,11/11/2009,Hallucination,USA,Spontaneous,56 Years,Female,25 Milligram,,Recovered/resolved,Not Serious; ;,Psychiatric disorders
+DSA_42003_2009,10/11/2009,Suicide attempt,USA,Spontaneous,56 Years,Female,,,Unknown,Serious; ;,Psychiatric disorders
+DSA_42009_2009,11/11/2009,Malaise,FRANCE,Spontaneous,82 Years,Female,25 Milligram,1 Years,Recovering/resolving,Serious; ; Possible,General disorders and administration site conditions
+DSA_42018_2009,16/07/2010,Nausea,USA,Spontaneous,43.33 Years,Female,25 Milligram,1 Weeks,Not recovered/not resolved,Serious; ;,Gastrointestinal disorders
+DSA_42021_2009,16/11/2009,Depression,USA,Spontaneous,70 Years,Female,25 Milligram,1 Days,Unknown,Not Serious; ;,Psychiatric disorders
+DSA_42026_2009,16/11/2009,Confusional state,USA,Other,,Male,50 Milligram,,Unknown,Not Serious; ;,Psychiatric disorders
+DSA_42043_2009,17/11/2009,Drug ineffective for unapproved indication,USA,Spontaneous,48 Years,Male,Dosage forms,8 Months,Recovered/resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_42049_2009,19/11/2009,Depression,USA,Spontaneous,53 Years,Female,37.5 Milligram,1 Months,Recovering/resolving,Not Serious; ;,Psychiatric disorders
+DSA_42053_2009,18/11/2009,Drug ineffective,USA,Spontaneous,42 Years,Female,12.5 Milligram,3.6 Months,Recovered/resolved,Serious; ;,General disorders and administration site conditions
+DSA_42060_2009,20/11/2009,Depression,USA,Spontaneous,64 Years,Female,25 Milligram,5 Days,Recovered/resolved,Not Serious; ;,Psychiatric disorders
+DSA_42061_2009,30/08/2010,Depression,USA,Spontaneous,43 Years,Female,62.5 Milligram,,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_42062_2009,28/01/2010,Pneumonia,USA,Spontaneous,56.92 Years,Male,75 Milligram,,Fatal,Serious; ;,Infections and infestations
+DSA_42066_2009,23/11/2009,Cerebrovascular accident,USA,Spontaneous,57 Years,Female,75 Milligram,64 Days,Recovering/resolving,Serious; ;,Nervous system disorders
+DSA_42076_2009,24/11/2009,Malaise,USA,Spontaneous,82 Years,Male,37.5 Milligram,1 Days,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_42107_2009,31/03/2010,Bedridden,USA,Spontaneous,56.67 Years,Female,Dosage forms,,Fatal,Serious; ;,Social circumstances
+DSA_42108_2009,12/02/2010,Aggression,USA,Spontaneous,57.33 Years,Male,25 Milligram,1 Weeks,Unknown,Serious; ;,Psychiatric disorders
+DSA_42116_2009,04/03/2010,Aggression,USA,Spontaneous,52 Years,Female,50 Milligram,,Fatal,Serious; ;,Psychiatric disorders
+DSA_42122_2009,30/04/2010,Constipation,USA,Spontaneous,64 Years,Female,12.5 Milligram,2 Days,Not recovered/not resolved,Not Serious; ;,Gastrointestinal disorders
+DSA_42124_2009,02/12/2009,Condition aggravated,USA,Other,,Male,Dosage forms,,Unknown,Not Serious; ;,General disorders and administration site conditions
+DSA_42129_2009,03/12/2009,Drug ineffective for unapproved indication,USA,Spontaneous,72 Years,Male,Dosage forms,,Unknown,Not Serious; ;,General disorders and administration site conditions
+DSA_42131_2009,03/12/2009,Constipation,USA,Spontaneous,66.17 Years,Male,25 Milligram,69 Days,Not recovered/not resolved,Not Serious; ;,Gastrointestinal disorders
+DSA_42132_2009,03/12/2009,Depressed mood,USA,Spontaneous,64.83 Years,Female,75 Milligram,7 Months,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_42142_2009,04/12/2009,Death,USA,Spontaneous,10 Years,Female,37.5 Milligram,6 Months,Fatal,Serious; ;,General disorders and administration site conditions
+DSA_42150_2009,07/12/2009,Death,USA,Spontaneous,58 Years,Male,50 Milligram,3.8 Months,Fatal,Serious; ;,General disorders and administration site conditions
+DSA_42151_2009,07/12/2009,Anxiety,USA,Spontaneous,57 Years,Male,50 Milligram,,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_42157_2009,09/08/2010,Sedation,USA,Spontaneous,47 Years,Female,25 Milligram,,Recovered/resolved,Not Serious; ; Possible,Nervous system disorders
+DSA_42159_2009,07/12/2009,Lethargy,USA,Spontaneous,,Female,Dosage forms,,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_42163_2009,12/05/2010,Somnolence,USA,Spontaneous,11 Years,Male,25 Milligram,,Not recovered/not resolved,Serious; ;,Nervous system disorders
+DSA_42167_2009,08/12/2009,Cognitive disorder,USA,Other,75 Years,Female,100 Milligram,4 Months,Unknown,Serious; ;,Nervous system disorders
+DSA_42172_2009,10/12/2009,Headache,USA,Other,65 Years,Female,50 Milligram,,Recovering/resolving,Not Serious; ;,Nervous system disorders
+DSA_42174_2009,05/01/2010,Muscle twitching,USA,Spontaneous,31 Years,Female,75 Milligram,8 Months,Not recovered/not resolved,Not Serious; ; Not Related,Musculoskeletal and connective tissue disorders
+DSA_42175_2009,25/01/2010,Anxiety,USA,Spontaneous,86 Years,Female,Dosage forms,,Fatal,Serious; ;,Psychiatric disorders
+DSA_42176_2009,11/12/2009,Pneumonia,USA,Spontaneous,82.42 Years,Male,25 Milligram,7.5 Months,Fatal,Serious; ;,Infections and infestations
+DSA_42181_2009,11/12/2009,Drug ineffective,USA,Spontaneous,45.58 Years,Male,12.5 Milligram,,Unknown,Not Serious; ;,General disorders and administration site conditions
+DSA_42191_2009,15/01/2010,Bronchitis,USA,Spontaneous,69.5 Years,Female,75 Milligram,,Fatal,Serious; ; Possible,Infections and infestations
+DSA_42192_2009,14/12/2009,Drug administration error,USA,Other,64 Years,Female,25 Milligram,,Recovered/resolved,Serious; ;,"Injury, poisoning and procedural complications"
+DSA_42195_2009,11/12/2009,Fatigue,USA,Spontaneous,81.33 Years,Male,37.5 Milligram,79 Days,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_42207_2009,15/12/2009,Drug ineffective,USA,Other,60.75 Years,Female,25 Milligram,1 Days,Unknown,Not Serious; ;,General disorders and administration site conditions
+DSA_42213_2009,16/12/2009,Drug administration error,USA,Other,54 Years,Female,56 Milligram,,Not recovered/not resolved,Not Serious; ;,"Injury, poisoning and procedural complications"
+DSA_42230_2009,18/12/2009,Adverse drug reaction,USA,Other,11 Years,Female,Dosage forms,,Unknown,Not Serious; ;,General disorders and administration site conditions
+DSA_42234_2009,18/12/2009,Condition aggravated,USA,Spontaneous,57 Years,Female,Dosage forms,,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_42237_2009,21/12/2009,Amnesia,USA,Spontaneous,78 Years,Female,37.5 Milligram,6 Months,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_42240_2009,12/01/2010,Blood pressure fluctuation,USA,Spontaneous,7 Years,Male,25 Milligram,,Recovered/resolved,Serious; ;,Vascular disorders
+DSA_42242_2009,19/08/2010,Drug ineffective,USA,Spontaneous,62.25 Years,Male,37.5 Milligram,1 Days,Unknown,Not Serious; ;,General disorders and administration site conditions
+DSA_42244_2009,22/12/2009,Depression,USA,Spontaneous,61 Years,Female,12.5 Milligram,,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_42246_2009,22/12/2009,Hypotension,USA,Other,,,,,,; ;,Vascular disorders
+DSA_42247_2009,23/12/2009,Fatigue,USA,Other,11 Years,Female,12.5 Milligram,,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_42248_2009,23/12/2009,Diarrhoea,USA,Spontaneous,35 Years,Female,37.5 Milligram,1 Days,Not recovered/not resolved,Not Serious; ;,Gastrointestinal disorders
+DSA_42249_2009,23/12/2009,Fatigue,USA,Spontaneous,,Male,50 Milligram,,Recovered/resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_42253_2009,23/12/2009,Crying,USA,Spontaneous,45 Years,Male,37.5 Milligram,,Unknown,Not Serious; ;,General disorders and administration site conditions
+DSA_42254_2009,28/01/2010,Tremor,USA,Spontaneous,88 Years,Female,Dosage forms,8 Months,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_42255_2009,23/12/2009,Crying,USA,Spontaneous,,Male,50 Milligram,,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_42258_2009,28/12/2009,Blood pressure increased,USA,Other,61 Years,Female,12.5 Milligram,,Recovered/resolved,Serious; ;,Investigations
+DSA_42259_2009,28/12/2009,Insomnia,USA,Spontaneous,48 Years,Female,37.5 Milligram,4 Months,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_42275_2009,31/12/2009,Jaundice,USA,Spontaneous,67 Years,Male,37.5 Milligram,,Unknown,Serious; ;,Hepatobiliary disorders
+DSA_42276_2009,22/01/2010,Disease progression,USA,Spontaneous,36 Years,Female,200 Milligram,55 Months,Fatal,Serious; ; Not Related,General disorders and administration site conditions
+DSA_42277_2009,23/02/2010,Dyspnoea,USA,Spontaneous,60 Years,Female,25 Milligram,22 Days,Fatal,Serious; ;,"Respiratory, thoracic and mediastinal disorders"
+DSA_42280_2010,28/01/2010,Drug ineffective,USA,Spontaneous,51 Years,Male,25 Milligram,,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_42283_2010,03/02/2010,Hypersomnia,USA,Spontaneous,62 Years,Female,37.5 Milligram,15 Days,Recovered/resolved,Not Serious; ;,Nervous system disorders
+DSA_42285_2010,04/01/2010,Depression,USA,Spontaneous,64 Years,Female,25 Milligram,,Unknown,Serious; ;,Psychiatric disorders
+DSA_42286_2010,26/01/2010,Anxiety,USA,Spontaneous,38 Years,Male,75 Milligram,1 Months,Recovering/resolving,Not Serious; ; Probable,Psychiatric disorders
+DSA_42287_2010,04/01/2010,Tardive dyskinesia,USA,Spontaneous,83.58 Years,Female,12.5 Milligram,,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_42290_2010,05/01/2010,Fatigue,USA,Spontaneous,39 Years,Female,50 Milligram,3 Months,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_42295_2010,05/03/2010,Somnolence,USA,Spontaneous,83.5 Years,Female,Dosage forms,,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_42296_2010,23/02/2010,Fall,USA,Spontaneous,61 Years,Male,37.5 Milligram,,Not recovered/not resolved,Serious; ; Probable,"Injury, poisoning and procedural complications"
+DSA_42299_2010,02/02/2010,Balance disorder,USA,Spontaneous,83.58 Years,Female,25 Milligram,,Unknown,Serious; ;,Nervous system disorders
+DSA_42300_2010,14/01/2010,Amnesia,USA,Spontaneous,54 Years,Male,37.5 Milligram,,Unknown,Serious; ;,Nervous system disorders
+DSA_42303_2010,27/01/2010,Depression,USA,Spontaneous,65 Years,Female,100 Milligram,,Unknown,Not Serious; ;,Psychiatric disorders
+DSA_42304_2010,07/01/2010,Aggression,USA,Spontaneous,27 Years,Female,25 Milligram,,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_42305_2010,26/01/2010,Drug ineffective for unapproved indication,USA,Other,69 Years,Female,37.5 Milligram,,Recovering/resolving,Not Serious; ;,General disorders and administration site conditions
+DSA_42306_2010,08/01/2010,Tremor,USA,Spontaneous,54 Years,Female,37.5 Milligram,6 Weeks,Unknown,Not Serious; ;,Nervous system disorders
+DSA_42307_2010,16/03/2010,Ataxia,USA,Spontaneous,66 Years,Male,12.5 Milligram,,Unknown,Serious; ;,Nervous system disorders
+DSA_42314_2010,11/01/2010,Drug ineffective for unapproved indication,USA,Other,16 Years,Female,25 Milligram,,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_42320_2010,11/01/2010,Balance disorder,USA,Spontaneous,64 Years,Female,50 Milligram,1 Days,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_42326_2010,04/01/2010,Depression,CANADA,Spontaneous,,Female,Dosage forms,,Unknown,Not Serious; ;,Psychiatric disorders
+DSA_42332_2010,22/01/2010,Depression,USA,Spontaneous,,Female,12.5 Milligram,,Unknown,Serious; ;,Psychiatric disorders
+DSA_42333_2010,15/04/2010,Speech disorder,USA,Spontaneous,81 Years,Female,37.5 Milligram,2 Months,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_42334_2010,12/01/2010,Condition aggravated,USA,Spontaneous,55 Years,Male,75 Milligram,,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_42346_2010,03/02/2010,Agitation,USA,Spontaneous,55.42 Years,Female,25 Milligram,36 Days,Recovering/resolving,Not Serious; ;,Psychiatric disorders
+DSA_42350_2010,15/01/2010,Abdominal discomfort,USA,Other,77 Years,Male,12.5 Milligram,,Not recovered/not resolved,Not Serious; ;,Gastrointestinal disorders
+DSA_42357_2010,18/01/2010,Depression,USA,Other,64.75 Years,Female,25 Milligram,,Unknown,Not Serious; ;,Psychiatric disorders
+DSA_42359_2010,18/01/2010,Balance disorder,USA,Spontaneous,43 Years,Male,50 Milligram,,Unknown,Not Serious; ;,Nervous system disorders
+DSA_42362_2010,19/01/2010,Agitation,USA,Spontaneous,45 Years,Male,Dosage forms,,Recovered/resolved,Serious; ;,Psychiatric disorders
+DSA_42373_2010,11/03/2010,Drug ineffective for unapproved indication,USA,Spontaneous,60 Years,Female,37.5 Milligram,,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_42404_2010,20/01/2010,Agitation,USA,Spontaneous,72 Years,Female,50 Milligram,,Unknown,Serious; ;,Psychiatric disorders
+DSA_42405_2010,20/01/2010,Death,USA,Spontaneous,10 Years,Male,37.5 Milligram,2 Months,Fatal,Serious; ;,General disorders and administration site conditions
+DSA_42425_2010,04/08/2010,Condition aggravated,USA,Spontaneous,64 Years,Female,12.5 Milligram,2 Months,Recovered/resolved,Serious; ; Certain,General disorders and administration site conditions
+DSA_42429_2010,08/02/2010,Dehydration,USA,Spontaneous,50 Years,Female,12.5 Milligram,,Recovered/resolved,Serious; ; Unlikely,Metabolism and nutrition disorders
+DSA_42458_2010,21/01/2010,Death,USA,Spontaneous,55 Years,Female,100 Milligram,3.7 Months,Fatal,Serious; ;,General disorders and administration site conditions
+DSA_42459_2010,22/01/2010,Depression,USA,Spontaneous,40 Years,Male,37.5 Milligram,2 Years,Recovering/resolving,Not Serious; ;,Psychiatric disorders
+DSA_42460_2010,22/02/2010,Cellulitis staphylococcal,USA,Spontaneous,40 Years,Male,Dosage forms,2 Years,Recovered/resolved,Serious; ; Possible,Infections and infestations
+DSA_42472_2010,25/01/2010,Blood pressure decreased,USA,Other,74.5 Years,Male,12.5 Milligram,,Recovered/resolved,Serious; ;,Investigations
+DSA_42485_2010,26/01/2010,Dyspnoea,USA,Spontaneous,81.25 Years,Female,,1 Days,Recovered/resolved,Serious; ; Probable,"Respiratory, thoracic and mediastinal disorders"
+DSA_42486_2010,26/01/2010,Movement disorder,USA,Other,,Female,12.5 Milligram,,Unknown,Not Serious; ;,Nervous system disorders
+DSA_42491_2010,26/01/2010,Agitation,USA,Other,15.42 Years,Male,25 Milligram,,Unknown,Not Serious; ;,Psychiatric disorders
+DSA_42492_2010,01/03/2010,Abnormal behaviour,USA,Spontaneous,43 Years,Female,50 Milligram,,Fatal,Serious; ;,Psychiatric disorders
+DSA_42494_2010,26/01/2010,Depression,USA,Spontaneous,63 Years,Female,37.5 Milligram,,Unknown,Not Serious; ;,Psychiatric disorders
+DSA_42499_2010,27/01/2010,Confusional state,USA,Spontaneous,58 Years,Female,75 Milligram,1 Months,Recovered/resolved,Not Serious; ;,Psychiatric disorders
+DSA_42506_2010,24/09/2010,Depression,USA,Spontaneous,69 Years,Female,37.5 Milligram,,Not recovered/not resolved,Serious; ;,Psychiatric disorders
+DSA_42507_2010,28/01/2010,Activities of daily living impaired,USA,Other,61 Years,Male,25 Milligram,,Recovered/resolved,Serious; ;,Social circumstances
+DSA_42511_2010,11/02/2010,Somnolence,USA,Spontaneous,60 Years,Female,25 Milligram,17 Days,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_42513_2010,21/04/2010,Hip fracture,USA,Spontaneous,60.08 Years,Male,25 Milligram,,Not recovered/not resolved,Serious; ;,"Injury, poisoning and procedural complications"
+DSA_42523_2010,24/02/2010,Insomnia,USA,Spontaneous,68 Years,Female,12.5 Milligram,1 Days,Unknown,Not Serious; ; Possible,Psychiatric disorders
+DSA_42527_2010,01/02/2010,Condition aggravated,USA,Other,44 Years,Female,12.5 Milligram,1 Days,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_42528_2010,01/02/2010,Overdose,USA,Spontaneous,80 Years,Male,Dosage forms,11 Months,Unknown,Not Serious; ;,"Injury, poisoning and procedural complications"
+DSA_42529_2010,01/02/2010,Fear,USA,Spontaneous,,Male,Dosage forms,,Recovered/resolved,Not Serious; ;,Psychiatric disorders
+DSA_42533_2010,23/12/2009,Abdominal discomfort,USA,Spontaneous,67 Years,Female,50 Milligram,,Not recovered/not resolved,Not Serious; ;,Gastrointestinal disorders
+DSA_42547_2010,04/02/2010,Constipation,USA,Spontaneous,19.33 Years,Female,37.5 Milligram,,Unknown,Not Serious; ;,Gastrointestinal disorders
+DSA_42548_2010,04/02/2010,Aggression,USA,Spontaneous,10 Years,Male,12.5 Milligram,2 Days,Recovered/resolved,Serious; ;,Psychiatric disorders
+DSA_42549_2010,16/03/2010,Drug ineffective for unapproved indication,USA,Other,85 Years,Female,37.5 Milligram,,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_42550_2010,01/02/2010,Crying,USA,Spontaneous,,Male,62.5 Milligram,,Not recovered/not resolved,Serious; ;,General disorders and administration site conditions
+DSA_42551_2010,01/02/2010,Headache,USA,Spontaneous,40 Years,Female,37.5 Milligram,1 Days,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_42559_2010,17/02/2010,Blood pressure increased,USA,Other,61 Years,Female,12.5 Milligram,3 Months,Recovered/resolved,Serious; ;,Investigations
+DSA_42561_2010,04/02/2010,Death,USA,Spontaneous,64 Years,Female,25 Milligram,,Fatal,Serious; ;,General disorders and administration site conditions
+DSA_42566_2010,24/05/2010,Blood pressure increased,USA,Spontaneous,28.17 Years,Male,25 Milligram,66 Days,Recovered/resolved,Serious; ;,Investigations
+DSA_42567_2010,05/02/2010,Huntington's disease,USA,Spontaneous,,Female,37.5 Milligram,,Fatal,Serious; ;,"Congenital, familial and genetic disorders"
+DSA_42568_2010,05/02/2010,Depression,USA,Spontaneous,,Female,12.5 Milligram,,Unknown,Not Serious; ;,Psychiatric disorders
+DSA_42569_2010,23/03/2010,Aggression,USA,Spontaneous,53 Years,Male,100 Milligram,,Not recovered/not resolved,Serious; ; Unlikely,Psychiatric disorders
+DSA_42571_2010,19/03/2010,Vomiting,USA,Spontaneous,11.75 Years,Female,12.5 Milligram,,Recovered/resolved,Not Serious; ;,Gastrointestinal disorders
+DSA_42573_2010,05/02/2010,Gastric haemorrhage,USA,Spontaneous,64 Years,Female,100 Milligram,,Unknown,Serious; ;,Gastrointestinal disorders
+DSA_42577_2010,30/03/2010,Cardiac arrest,USA,Spontaneous,38 Years,Male,12.5 Milligram,,Fatal,Serious; ; Unlikely,Cardiac disorders
+DSA_42586_2010,27/04/2010,Cardiac disorder,USA,Spontaneous,40 Years,Female,75 Milligram,,Unknown,Serious; ; Certain,Cardiac disorders
+DSA_42589_2010,30/06/2010,Dry skin,USA,Spontaneous,70 Years,Female,37.5 Milligram,,Recovering/resolving,Not Serious; ; Not Related,Skin and subcutaneous tissue disorders
+DSA_42590_2010,01/03/2010,Cerebrovascular accident,USA,Spontaneous,74 Years,Female,37.5 Milligram,1 Months,Recovered/resolved,Serious; ; Unlikely,Nervous system disorders
+DSA_42591_2010,04/05/2010,Asthenia,USA,Spontaneous,67 Years,Female,37.5 Milligram,,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_42599_2010,11/02/2010,Huntington's disease,USA,Spontaneous,68 Years,Male,50 Milligram,,Fatal,Serious; ;,"Congenital, familial and genetic disorders"
+DSA_42605_2010,11/02/2010,Pain in extremity,USA,Spontaneous,,Male,50 Milligram,1 Months,Unknown,Not Serious; ;,Musculoskeletal and connective tissue disorders
+DSA_42613_2010,16/02/2010,Dizziness,USA,Spontaneous,11 Years,Male,12.5 Milligram,1 Days,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_42614_2010,17/05/2010,Attention deficit/hyperactivity disorder,USA,Spontaneous,,Male,50 Milligram,,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_42617_2010,12/02/2010,Depression,USA,Other,,Female,25 Milligram,,Unknown,Not Serious; ;,Psychiatric disorders
+DSA_42625_2010,09/03/2010,Cholelithiasis,CANADA,Clinical Study,52 Years,Male,,1 Months,Not recovered/not resolved,Serious; ; Unlikely,Hepatobiliary disorders
+DSA_42630_2010,05/03/2010,Death,USA,Spontaneous,84 Years,Female,6.25 Milligram,,Fatal,Serious; ;,General disorders and administration site conditions
+DSA_42637_2010,16/02/2010,Depression,USA,Spontaneous,,Female,75 Milligram,,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_42638_2010,16/02/2010,Drug administration error,USA,Spontaneous,57.5 Years,Female,12.5 Milligram,4 Months,Not recovered/not resolved,Not Serious; ;,"Injury, poisoning and procedural complications"
+DSA_42645_2010,22/03/2010,Death,USA,Spontaneous,62.42 Years,Female,12.5 Milligram,8.4 Months,Fatal,Serious; ; Unlikely,General disorders and administration site conditions
+DSA_42647_2010,17/02/2010,Condition aggravated,USA,Spontaneous,,Male,Dosage forms,,Unknown,Not Serious; ;,General disorders and administration site conditions
+DSA_42648_2010,04/06/2010,Anxiety,USA,Spontaneous,67 Years,Male,25 Milligram,,Recovered/resolved,Not Serious; ;,Psychiatric disorders
+DSA_42649_2010,18/02/2010,Anxiety,USA,Spontaneous,60 Years,Female,25 Milligram,3 Weeks,Not recovered/not resolved,Serious; ;,Psychiatric disorders
+DSA_42651_2010,17/02/2010,Fatigue,USA,Other,,Female,12.5 Milligram,,Unknown,Not Serious; ;,General disorders and administration site conditions
+DSA_42652_2010,18/02/2010,Blood test,USA,Spontaneous,,,Dosage forms,,Unknown,Not Serious; ;,Investigations
+DSA_42653_2010,19/02/2010,Sedation,USA,Spontaneous,,Female,62.5 Milligram,3 Months,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_42654_2010,09/03/2010,Atrial fibrillation,USA,Spontaneous,,Female,,,Unknown,Serious; ;,Cardiac disorders
+DSA_42655_2010,19/02/2010,Rash macular,USA,Spontaneous,,Male,75 Milligram,,Not recovered/not resolved,Not Serious; ;,Skin and subcutaneous tissue disorders
+DSA_42656_2010,19/02/2010,Agitation,USA,Spontaneous,61 Years,Female,25 Milligram,,Unknown,Not Serious; ;,Psychiatric disorders
+DSA_42658_2010,01/03/2010,Abdominal discomfort,USA,Spontaneous,53 Years,Female,50 Milligram,3 Months,Recovering/resolving,Serious; ;,Gastrointestinal disorders
+DSA_42667_2010,22/02/2010,Depression,USA,Spontaneous,,Female,37.5 Milligram,,Unknown,Not Serious; ;,Psychiatric disorders
+DSA_42668_2010,05/08/2010,Fall,USA,Spontaneous,44 Years,Female,25 Milligram,,Unknown,Not Serious; ;,"Injury, poisoning and procedural complications"
+DSA_42670_2010,12/03/2010,Diarrhoea,USA,Spontaneous,57 Years,Female,12.5 Milligram,2 Days,Not recovered/not resolved,Not Serious; ;,Gastrointestinal disorders
+DSA_42671_2010,19/03/2010,Anaphylactic reaction,USA,Spontaneous,39.17 Years,Female,12.5 Milligram,23 Days,Recovered/resolved,Serious; ; Certain,Immune system disorders
+DSA_42672_2010,13/04/2010,Depression,USA,Spontaneous,,Female,75 Milligram,,Unknown,Serious; ; Probable,Psychiatric disorders
+DSA_42679_2010,24/02/2010,Death,USA,Spontaneous,60 Years,Female,12.5 Milligram,11 Months,Fatal,Serious; ;,General disorders and administration site conditions
+DSA_42681_2010,24/02/2010,Fatigue,USA,Spontaneous,67 Years,Male,12.5 Milligram,,Unknown,Not Serious; ;,General disorders and administration site conditions
+DSA_42682_2010,13/08/2010,Abdominal discomfort,USA,Other,60 Years,Male,25 Milligram,1 Months,Unknown,Serious; ;,Gastrointestinal disorders
+DSA_42684_2010,25/02/2010,Fatigue,USA,Spontaneous,,Female,50 Milligram,,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_42687_2010,19/02/2010,Blood test,USA,Spontaneous,,,Dosage forms,,Unknown,Not Serious; ;,Investigations
+DSA_42690_2010,03/03/2010,Asthenia,USA,Other,71 Years,Female,Dosage forms,,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_42691_2010,01/04/2010,Drug ineffective,USA,Other,71.08 Years,Male,12.5 Milligram,1 Days,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_42697_2010,01/03/2010,Condition aggravated,USA,Other,39 Years,Female,25 Milligram,1 Days,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_42699_2010,18/03/2010,Abdominal discomfort,USA,Spontaneous,,Female,50 Milligram,,Recovered/resolved,Not Serious; ;,Gastrointestinal disorders
+DSA_42700_2010,26/02/2010,Crying,USA,Other,,Female,12.5 Milligram,,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_42707_2010,26/02/2010,Hypersomnia,USA,Spontaneous,84 Years,Male,75 Milligram,,Unknown,Not Serious; ;,Nervous system disorders
+DSA_42710_2010,26/02/2010,Blood pressure increased,USA,Spontaneous,60 Years,Female,12.5 Milligram,,Recovered/resolved,Not Serious; ;,Investigations
+DSA_42711_2010,28/05/2010,Urticaria,USA,Spontaneous,60 Years,Male,25 Milligram,,Recovered/resolved,Not Serious; ;,Skin and subcutaneous tissue disorders
+DSA_42714_2010,02/03/2010,Incorrect dose administered,USA,Other,69 Years,Female,50 Milligram,,Recovered/resolved,Serious; ;,"Injury, poisoning and procedural complications"
+DSA_42717_2010,02/03/2010,Arthralgia,USA,Other,54 Years,Female,12.5 Milligram,8 Days,Not recovered/not resolved,Not Serious; ;,Musculoskeletal and connective tissue disorders
+DSA_42720_2010,03/03/2010,Diarrhoea,USA,Other,57 Years,Female,12.5 Milligram,1 Days,Not recovered/not resolved,Not Serious; ;,Gastrointestinal disorders
+DSA_42721_2010,03/03/2010,Epistaxis,USA,Other,69 Years,Female,25 Milligram,1 Months,Recovered/resolved,Not Serious; ;,"Respiratory, thoracic and mediastinal disorders"
+DSA_42727_2010,26/03/2010,Depression,USA,Spontaneous,52 Years,Female,50 Milligram,1 Years,Recovering/resolving,Not Serious; ; Not Related,Psychiatric disorders
+DSA_42730_2010,29/03/2010,Overdose,USA,Spontaneous,89 Years,Female,100 Milligram,20 Months,Not recovered/not resolved,Serious; ; Possible,"Injury, poisoning and procedural complications"
+DSA_42731_2010,04/03/2010,Abdominal discomfort,USA,Other,73 Years,Male,,,Unknown,Not Serious; ;,Gastrointestinal disorders
+DSA_42739_2010,29/03/2010,Drug ineffective for unapproved indication,USA,Other,,Male,12.5 Milligram,,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_42741_2010,07/04/2010,Suicidal ideation,USA,Spontaneous,69 Years,Female,25 Milligram,,Recovered/resolved,Serious; ;,Psychiatric disorders
+DSA_42745_2010,08/03/2010,Balance disorder,USA,Spontaneous,,Female,25 Milligram,,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_42746_2010,28/06/2010,Activities of daily living impaired,USA,Spontaneous,85.5 Years,Male,,1 Days,Recovered/resolved,Not Serious; ;,Social circumstances
+DSA_42761_2010,01/04/2010,Agitation,USA,Spontaneous,59 Years,Female,25 Milligram,,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_42762_2010,10/03/2010,Crying,USA,Other,8 Years,Female,50 Milligram,,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_42763_2010,27/04/2010,Middle insomnia,USA,Other,75 Years,Female,37.5 Milligram,1 Years,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_42764_2010,10/03/2010,Gastrooesophageal reflux disease,USA,Spontaneous,,Female,25 Milligram,,Not recovered/not resolved,Not Serious; ;,Gastrointestinal disorders
+DSA_42771_2010,10/03/2010,Dysphagia,USA,Spontaneous,24 Years,Female,37.5 Milligram,29 Days,Not recovered/not resolved,Not Serious; ;,Gastrointestinal disorders
+DSA_42772_2010,11/03/2010,Somnolence,USA,Spontaneous,63 Years,Male,75 Milligram,10 Months,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_42777_2010,03/06/2010,Musculoskeletal stiffness,USA,Spontaneous,37 Years,Male,100 Milligram,1 Years,Not recovered/not resolved,Serious; ;,Musculoskeletal and connective tissue disorders
+DSA_42778_2010,19/04/2010,Death,USA,Spontaneous,,Female,112.5 Milligram,,Fatal,Serious; ;,General disorders and administration site conditions
+DSA_42782_2010,13/04/2010,Anger,USA,Spontaneous,74 Years,Male,25 Milligram,2 Months,Unknown,Not Serious; ;,Psychiatric disorders
+DSA_42787_2010,12/03/2010,Gait disturbance,USA,Other,,Male,37.5 Milligram,,Recovered/resolved,Serious; ;,General disorders and administration site conditions
+DSA_42790_2010,05/04/2010,Depression,USA,Spontaneous,,Female,Dosage forms,,Unknown,Serious; ;,Psychiatric disorders
+DSA_42795_2010,15/03/2010,Insomnia,USA,Spontaneous,36 Years,Male,37.5 Milligram,,Unknown,Not Serious; ;,Psychiatric disorders
+DSA_42798_2010,15/03/2010,Asocial behaviour,USA,Spontaneous,67 Years,Female,25 Milligram,,Unknown,Serious; ;,Psychiatric disorders
+DSA_42802_2010,06/04/2010,Dysphagia,USA,Spontaneous,62.17 Years,Female,125 Milligram,3 Years,Fatal,Serious; ;,Gastrointestinal disorders
+DSA_42808_2010,19/03/2010,Anxiety,USA,Other,,Female,37.5 Milligram,,Not recovered/not resolved,Not Serious; ;,Psychiatric disorders
+DSA_42810_2010,08/09/2010,Activities of daily living impaired,USA,Spontaneous,63 Years,Male,25 Milligram,,Not recovered/not resolved,Serious; ;,Social circumstances
+DSA_42811_2010,17/03/2010,Amnesia,USA,Other,73 Years,Male,112.5 Milligram,,Not recovered/not resolved,Serious; ;,Nervous system disorders
+DSA_42812_2010,17/03/2010,Stress,USA,Spontaneous,34 Years,Female,12.5 Milligram,,Unknown,Not Serious; ;,Psychiatric disorders
+DSA_42814_2010,22/11/2010,Abnormal behaviour,USA,Spontaneous,50 Years,Female,75 Milligram,18 Months,Not recovered/not resolved,Serious; ;,Psychiatric disorders
+DSA_42815_2010,18/03/2010,Nausea,USA,Other,33 Years,Male,,,Recovered/resolved,Not Serious; ;,Gastrointestinal disorders
+DSA_42818_2010,18/03/2010,Drug ineffective for unapproved indication,USA,Other,,Female,25 Milligram,,Not recovered/not resolved,Not Serious; ;,General disorders and administration site conditions
+DSA_42826_2010,17/06/2010,Fall,USA,Other,57 Years,Male,37.5 Milligram,30 Months,Recovering/resolving,Serious; ; Unlikely,"Injury, poisoning and procedural complications"
+DSA_42828_2010,19/07/2010,Aggression,USA,Spontaneous,73 Years,Male,25 Milligram,,Not recovered/not resolved,Serious; ;,Psychiatric disorders
+DSA_42829_2010,19/03/2010,Disturbance in attention,USA,Spontaneous,73 Years,Female,50 Milligram,1 Months,Not recovered/not resolved,Not Serious; ;,Nervous system disorders
+DSA_42831_2010,07/01/2011,Apathy,USA,Spontaneous,,Female,37.5 Milligram,,Not recovered/not resolved,Not Serious; ; Probable,Psychiatric disorders
