@@ -37,7 +37,7 @@
         }
 
         function process() {
-            debugger;
+
 
             var dateKey = 'Latest Receive Date';
             var dateArray = csvData.data.map(function (item) {
@@ -98,8 +98,8 @@
         }
 
         function ShowRactionList(name) {
-            debugger;
-            $("#tblRactionList").html("");
+
+            $("#tblRactionList tr:gt(0)").html("");
             var filetrKey = 'Reaction Description';
             var dateArray = csvData.data.map(function (item) {
                 if (item["Reaction Description"] == name) {
@@ -150,10 +150,10 @@
         }
     </script>
     <style>
-        /* .modal-content
+        .modal-content
         {
-            width: 900px;
-        }*/
+            width: 950px;
+        }
         .table-responsive
         {
             min-height: .01%;
