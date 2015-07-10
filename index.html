@@ -6,25 +6,21 @@
     <link rel="stylesheet" href="css/epoch.css">
     <link rel="stylesheet" href="css/iThing.css">
     <link rel="stylesheet" href="css/jquery-ui-1.8.10.custom.css">
-
     <script src="js/papaparse.js"></script>
-
     <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
     <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.min.js"></script>
     <script src="js/jquery.mousewheel.min.js"></script>
-
     <script src="js/bootstrap.min.js"></script>
     <script src="js/jQAllRangeSliders-min.js"></script>
     <script src="js/jQAllRangeSliders-withRuler-min.js"></script>
-
     <script src="js/d3.js"></script>
     <script src="js/epoch.js"></script>
-
     <script type="text/javascript">
         var csvData;
 
         $(document).ready(function () {
             $("#csv-file").change(handleFileSelect);
+
         });
 
         function handleFileSelect(evt) {
@@ -41,6 +37,7 @@
         }
 
         function process() {
+            debugger;
 
             var dateKey = 'Latest Receive Date';
             var dateArray = csvData.data.map(function (item) {
@@ -86,7 +83,7 @@
 
                 var row = table.insertRow(table.rows.length);
                 var cell1 = row.insertCell(0);
-                cell1.innerHTML = name;
+                cell1.innerHTML = "<a href='javascript:void(0)' data-toggle='modal' data-target='#myModal' onclick=ShowRactionList('" + name + "')>" + name + "</a>";
 
                 var cell2 = row.insertCell(1);
                 cell2.innerHTML = dictionary[name];
@@ -95,31 +92,171 @@
             $('#barChart').epoch({
                 type: 'bar',
                 axes: ['left', 'bottom'],
-                data: history,
+                data: history
+            });
+        }
+
+        function ShowRactionList(name) {
+            debugger;
+            var filetrKey = 'Reaction Description';
+            var dateArray = csvData.data.map(function (item) {
+                if (item["Reaction Description"] == name) {
+                    var data = item;
+                    return data;
+                }
+            }).filter(function (x) {
+                return typeof x !== 'undefined';
+            });
+
+            var table = document.getElementById("tblRactionList");
+
+            $(dateArray).each(function myfunction(i, v) {
+                debugger;
+                var row = table.insertRow();
+                var cell1 = row.insertCell(0);
+                cell1.innerHTML = v["Reference_no"];
+                var cell2 = row.insertCell(1);
+                cell2.innerHTML = v["Latest Receive Date"];
+                var cell3 = row.insertCell(2);
+                cell3.innerHTML = v["Reaction Description"];
+                var cell4 = row.insertCell(3);
+                cell4.innerHTML = v.Country;
+                var cell5 = row.insertCell(4);
+                cell5.innerHTML = v.Source;
+                var cell6 = row.insertCell(5);
+                cell6.innerHTML = v.Sex;
+                var cell7 = row.insertCell(6);
+                cell7.innerHTML = v.DOSE;
+                var cell8 = row.insertCell(7);
+                cell8.innerHTML = v["Treat.dru.till onset"];
+                var cell9 = row.insertCell(8);
+                cell9.innerHTML = v.Outcome;
+                var cell10 = row.insertCell(9);
+                cell10.innerHTML = v.COMMENTS;
+                var cell11 = row.insertCell(10);
+                cell11.innerHTML = v["SOC Name"];
+                var cell12 = row.insertCell(11);
+                cell12.innerHTML = v.age;
+
+            });
+
+
+
+            $('#myModal').on('shown.bs.modal', function () {
+                $('#myInput').focus();
             });
         }
     </script>
+    <style>
+        /* .modal-content
+        {
+            width: 900px;
+        }*/
+        .table-responsive
+        {
+            min-height: .01%;
+            overflow-x: auto;
+            overflow-y :auto;
+            height:400px;
+        }
+    </style>
 </head>
 <body>
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <h3 id="line">Select File</h3>
+                <h3 id="line">
+                    Select File</h3>
                 <input type="file" id="csv-file" name="files" />
             </div>
             <div class="col-md-6">
-                <div id="slider"></div>
+                <div id="slider">
+                </div>
             </div>
         </div>
         <div class="row">
-            <h3 id="line">Data</h3>
+            <h3 id="line">
+                Data</h3>
             <div class="col-md-2">
                 <table id="tblData">
-                    <tr><th>Reaction</th><th>Cases</th></tr>
+                    <tr>
+                        <th>
+                            Reaction
+                        </th>
+                        <th>
+                            Cases
+                        </th>
+                    </tr>
                 </table>
             </div>
             <div class="col-md-10">
-                <div id="barChart" class="epoch" style="height: 400px; width:1200px"></div>
+                <div id="barChart" class="epoch" style="height: 400px; width: 1200px">
+                </div>
+            </div>
+        </div>
+        <!-- Button trigger modal -->
+        <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
+            Launch modal
+        </button>
+        <!-- Modal -->
+        <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title" id="myModalLabel">
+                            Reaction List</h4>
+                    </div>
+                    <div class="modal-body">
+                        <div class="table-responsive">
+                            <table id="tblRactionList" class="table table-bordered ">
+                                <tr>
+                                    <th>
+                                        Reference No
+                                    </th>
+                                    <th>
+                                        Latest Receive Date
+                                    </th>
+                                    <th>
+                                        Reaction Description
+                                    </th>
+                                    <th>
+                                        Country
+                                    </th>
+                                    <th>
+                                        Source
+                                    </th>
+                                    <th>
+                                        Sex
+                                    </th>
+                                    <th>
+                                        DOSE
+                                    </th>
+                                    <th>
+                                        Treat.dru.till onset
+                                    </th>
+                                    <th>
+                                        Outcome
+                                    </th>
+                                    <th>
+                                        COMMENTS
+                                    </th>
+                                    <th>
+                                        SOC Name
+                                    </th>
+                                    <th>
+                                        Age
+                                    </th>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-primary" data-dismiss="modal">
+                            Close</button>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
