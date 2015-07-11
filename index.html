@@ -16,10 +16,11 @@
     <script src="js/d3.js"></script>
     <script src="js/epoch.js"></script>
     <script type="text/javascript">
-        var csvData;
+        var csvData, chart;
 
         $(document).ready(function () {
             $("#csv-file").change(handleFileSelect);
+
 
         });
 
@@ -31,16 +32,17 @@
                 dynamicTyping: true,
                 complete: function (results) {
                     csvData = results;
-                    process();
+
+                    process(csvData.data);
                 }
             });
         }
 
-        function process() {
+        function process(resultData) {
 
 
             var dateKey = 'Latest Receive Date';
-            var dateArray = csvData.data.map(function (item) {
+            var dateArray = resultData.map(function (item) {
                 var date = item[dateKey].split('/');
                 return new Date(date[2], date[1], date[0])
 
@@ -62,8 +64,8 @@
 
             var dictionary = [];
 
-            for (i = 0; i < csvData.data.length; i++) {
-                var key = csvData.data[i]["Reaction Description"];
+            for (i = 0; i < resultData.length; i++) {
+                var key = resultData[i]["Reaction Description"];
 
                 if (dictionary[key] == undefined) {
                     dictionary[key] = 1;
@@ -72,7 +74,7 @@
                     dictionary[key] = dictionary[key] + 1;
                 }
             }
-
+            $("#tblData tr:gt(0)").html("");
             var table = document.getElementById("tblData");
 
             var keysSorted = Object.keys(dictionary).sort(function (a, b) { return dictionary[b] - dictionary[a] })
@@ -89,12 +91,15 @@
                 var cell2 = row.insertCell(1);
                 cell2.innerHTML = dictionary[name];
             }
+            if (!chart) {
+                chart = $('#barChart').epoch({
+                    type: 'bar',
+                    axes: ['left', 'bottom'],
+                    data: history
+                });
+            }
+            chart.update(history);
 
-            $('#barChart').epoch({
-                type: 'bar',
-                axes: ['left', 'bottom'],
-                data: history
-            });
         }
 
         function ShowRactionList(name) {
@@ -113,7 +118,7 @@
             var table = document.getElementById("tblRactionList");
 
             $(dateArray).each(function myfunction(i, v) {
-                debugger;
+
                 var row = table.insertRow();
                 var cell1 = row.insertCell(0);
                 cell1.innerHTML = v["Reference_no"];
@@ -148,6 +153,25 @@
                 $('#myInput').focus();
             });
         }
+
+        function ShowChartByDate() {
+
+            var maxDate = $("#slider").dateRangeSlider("max");
+            var minDate = $("#slider").dateRangeSlider("min");
+            var resultData = csvData.data.map(function (item) {
+
+                var reciveDate = new Date(item["Latest Receive Date"]);
+                if (reciveDate >= minDate && reciveDate <= maxDate) {
+                    var data = item;
+                    return data;
+                }
+            }).filter(function (x) {
+                return typeof x !== 'undefined';
+            });
+
+            process(resultData);
+
+        }
     </script>
     <style>
         .modal-content
@@ -166,17 +190,19 @@
 <body>
     <div class="container">
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-md-3">
                 <h3 id="line">
                     Select File</h3>
                 <input type="file" id="csv-file" name="files" />
             </div>
             <div class="col-md-6">
-                <div class="col-md-10" id="slider">
+                <div id="slider">
                 </div>
-                <!--<div class="col-md-2">
+            </div>
+            <div class="col-md-3">
+                <div style="margin-top: 43px">
                     <input type="button" name="btnshow" onclick="ShowChartByDate()" id="btnshow" value="Show" />
-                </div>-->
+                </div>
             </div>
         </div>
         <div class="row">
