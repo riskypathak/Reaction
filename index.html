@@ -16,7 +16,7 @@
     <script src="js/d3.js"></script>
     <script src="js/epoch.js"></script>
     <script type="text/javascript">
-        var csvData, chart, slider;
+        var csvData, chart, slider, filteredData;
 
         $(document).ready(function () {
             $("#csv-file").change(handleFileSelect);
@@ -47,19 +47,26 @@
                 return new Date(date[2], date[1], date[0])
 
             });
-            debugger;
+
             var maxT = new Date(Math.max.apply(null, dateArray));
             var minT = new Date(Math.min.apply(null, dateArray));
+            console.log(maxT);
+            console.log(minT);
+
             if (!slider) {
                 slider = $("#slider").dateRangeSlider({
                     "bounds": {
                         min: minT,
                         max: maxT
-                    }
+                    },
+                    "defaultValues": { min: minT, max: maxT }
                 });
+                $(".hidden1").show();
+                ShowChartByDate();
+                return;
             }
 
-         
+
             var history = [];
 
             history.push({ values: [] });
@@ -87,9 +94,9 @@
 
                 var row = table.insertRow(table.rows.length);
                 var cell1 = row.insertCell(0);
-                var cl = 'ShowRactionList("' + name + '")';
+                filteredData = resultData;
+                var cl = 'ShowReaction("' + name + '")';
                 cell1.innerHTML = "<a href='javascript:void(0)' data-toggle='modal' data-target='#myModal' onclick='" + cl + "'>" + name + "</a>";
-
                 var cell2 = row.insertCell(1);
                 cell2.innerHTML = dictionary[name];
             }
@@ -104,11 +111,11 @@
 
         }
 
-        function ShowRactionList(name) {
+        function ShowReaction(name) {
 
             $("#tblRactionList tr:gt(0)").html("");
             var filetrKey = 'Reaction Description';
-            var dateArray = csvData.data.map(function (item) {
+            var dateArray = filteredData.map(function (item) {
                 if (item["Reaction Description"] == name) {
                     var data = item;
                     return data;
@@ -197,15 +204,6 @@
                     Select File</h3>
                 <input type="file" id="csv-file" name="files" />
             </div>
-            <div class="col-md-6">
-                <div id="slider">
-                </div>
-            </div>
-            <div class="col-md-3">
-                <div style="margin-top: 43px">
-                    <input type="button" name="btnshow" onclick="ShowChartByDate()" id="btnshow" value="Show" />
-                </div>
-            </div>
         </div>
         <div class="row">
             <h3 id="line">
@@ -225,6 +223,22 @@
             <div class="col-md-10">
                 <div id="barChart" class="epoch" style="height: 400px; width: 1200px">
                 </div>
+                <div class="col-md-2 hidden1" style="top: 46px; display: none">
+                    <span><b>Date Range:</b></span>
+                </div>
+                <div class="col-md-7">
+                    <div id="slider">
+                    </div>
+                </div>
+                <div class="col-md-3 hidden1" style="display: none">
+                    <div style="margin-top: 43px;">
+                        <input type="button" name="btnshow" onclick="ShowChartByDate()" id="btnshow" value="Show" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
             </div>
         </div>
         <!-- Modal -->
