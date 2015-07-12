@@ -90,7 +90,7 @@
 
             for (i = 0; i < 20; i++) {
                 var name = keysSorted[i];
-                history[0].values.push({ x: name.length > 10 ? name.substr(0, 8).trim() + '..' : name, y: dictionary[name] });
+                history[0].values.push({ x: name.length > 9 ? name.substr(0, 7).trim() + '..' : name, y: dictionary[name] });
 
                 var row = table.insertRow(table.rows.length);
                 var cell1 = row.insertCell(0);
