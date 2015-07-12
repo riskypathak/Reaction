@@ -16,7 +16,7 @@
     <script src="js/d3.js"></script>
     <script src="js/epoch.js"></script>
     <script type="text/javascript">
-        var csvData, chart;
+        var csvData, chart, slider;
 
         $(document).ready(function () {
             $("#csv-file").change(handleFileSelect);
@@ -47,17 +47,19 @@
                 return new Date(date[2], date[1], date[0])
 
             });
-
+            debugger;
             var maxT = new Date(Math.max.apply(null, dateArray));
             var minT = new Date(Math.min.apply(null, dateArray));
+            if (!slider) {
+                slider = $("#slider").dateRangeSlider({
+                    "bounds": {
+                        min: minT,
+                        max: maxT
+                    }
+                });
+            }
 
-            $("#slider").dateRangeSlider({
-                "bounds": {
-                    min: minT,
-                    max: maxT
-                }
-            });
-
+         
             var history = [];
 
             history.push({ values: [] });
